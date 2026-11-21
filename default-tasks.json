@@ -1,0 +1,6131 @@
+{
+ "version": "2027-2028.3",
+ "months": [
+  {
+   "year": 2027,
+   "month": 1,
+   "workDays": 20,
+   "notice": "□ 소방종합정밀점검(건축물 사용승인일이 속하는 달) / □ 작동기능점검(종합정밀점검 받은 달부터 6개월이 되는 달)"
+  },
+  {
+   "year": 2027,
+   "month": 2,
+   "workDays": 18,
+   "notice": ""
+  },
+  {
+   "year": 2027,
+   "month": 3,
+   "workDays": 22,
+   "notice": "*학교운영위원회 구성 절차 학교 사정에 맞게 세부절차 제정(학부모 총회 일정 확인)"
+  },
+  {
+   "year": 2027,
+   "month": 4,
+   "workDays": 22,
+   "notice": ""
+  },
+  {
+   "year": 2027,
+   "month": 5,
+   "workDays": 18,
+   "notice": ""
+  },
+  {
+   "year": 2027,
+   "month": 6,
+   "workDays": 22,
+   "notice": ""
+  },
+  {
+   "year": 2027,
+   "month": 7,
+   "workDays": 21,
+   "notice": ""
+  },
+  {
+   "year": 2027,
+   "month": 8,
+   "workDays": 21,
+   "notice": ""
+  },
+  {
+   "year": 2027,
+   "month": 9,
+   "workDays": 19,
+   "notice": ""
+  },
+  {
+   "year": 2027,
+   "month": 10,
+   "workDays": 19,
+   "notice": ""
+  },
+  {
+   "year": 2027,
+   "month": 11,
+   "workDays": 22,
+   "notice": ""
+  },
+  {
+   "year": 2027,
+   "month": 12,
+   "workDays": 22,
+   "notice": ""
+  },
+  {
+   "year": 2028,
+   "month": 1,
+   "workDays": 18,
+   "notice": ""
+  },
+  {
+   "year": 2028,
+   "month": 2,
+   "workDays": 21,
+   "notice": ""
+  }
+ ],
+ "holidays": [
+  {
+   "date": "2027-01-01",
+   "name": "새해 첫날"
+  },
+  {
+   "date": "2027-02-06",
+   "name": "설날 연휴"
+  },
+  {
+   "date": "2027-02-07",
+   "name": "설날"
+  },
+  {
+   "date": "2027-02-08",
+   "name": "설날 연휴"
+  },
+  {
+   "date": "2027-02-09",
+   "name": "대체공휴일"
+  },
+  {
+   "date": "2027-03-01",
+   "name": "삼일절"
+  },
+  {
+   "date": "2027-05-01",
+   "name": "노동절"
+  },
+  {
+   "date": "2027-05-03",
+   "name": "대체공휴일"
+  },
+  {
+   "date": "2027-05-05",
+   "name": "어린이날"
+  },
+  {
+   "date": "2027-05-13",
+   "name": "석가탄신일"
+  },
+  {
+   "date": "2027-06-06",
+   "name": "현충일"
+  },
+  {
+   "date": "2027-07-17",
+   "name": "제헌절"
+  },
+  {
+   "date": "2027-07-19",
+   "name": "대체공휴일"
+  },
+  {
+   "date": "2027-08-15",
+   "name": "광복절"
+  },
+  {
+   "date": "2027-08-16",
+   "name": "대체공휴일"
+  },
+  {
+   "date": "2027-09-14",
+   "name": "추석연휴"
+  },
+  {
+   "date": "2027-09-15",
+   "name": "추석"
+  },
+  {
+   "date": "2027-09-16",
+   "name": "추석연휴"
+  },
+  {
+   "date": "2027-10-03",
+   "name": "개천절"
+  },
+  {
+   "date": "2027-10-04",
+   "name": "대체공휴일"
+  },
+  {
+   "date": "2027-10-09",
+   "name": "한글날"
+  },
+  {
+   "date": "2027-10-11",
+   "name": "대체공휴일"
+  },
+  {
+   "date": "2027-12-25",
+   "name": "크리스마스"
+  },
+  {
+   "date": "2027-12-27",
+   "name": "대체공휴일"
+  },
+  {
+   "date": "2028-01-01",
+   "name": "새해 첫날"
+  },
+  {
+   "date": "2028-01-26",
+   "name": "설날 연휴"
+  },
+  {
+   "date": "2028-01-27",
+   "name": "설날(음 1.1.)"
+  },
+  {
+   "date": "2028-01-28",
+   "name": "설날 연휴"
+  }
+ ],
+ "tasks": [
+  {
+   "id": "d-2027-01-04-01",
+   "date": "2027-01-04",
+   "weekly": false,
+   "title": "인계인수서 작성(실장)",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-01-04-r2-001",
+   "date": "2027-01-04",
+   "weekly": false,
+   "title": "출납원 인감변경 신고",
+   "detail": "",
+   "category": "세입",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-01-04-02",
+   "date": "2027-01-04",
+   "weekly": false,
+   "title": "행정실 업무분장 결재",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-01-04-03",
+   "date": "2027-01-04",
+   "weekly": false,
+   "title": "직책급업무수행경비 지급",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-01-04-04",
+   "date": "2027-01-04",
+   "weekly": false,
+   "title": "안전점검의 날",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-01-04-r2-002",
+   "date": "2027-01-04",
+   "weekly": false,
+   "title": "공무직 현원 변동 보고",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-01-04-r2-003",
+   "date": "2027-01-04",
+   "weekly": false,
+   "title": "관리자 선임신고 및 담당자 교육 확인(소방,가스,석면,승강기,놀이시설,기계설비)",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-01-04-r2-004",
+   "date": "2027-01-04",
+   "weekly": false,
+   "title": "교육시설통합시스템,시설물통합정보관리시스템 담당자 변경(인사이동 시)",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-01-04-r2-005",
+   "date": "2027-01-04",
+   "weekly": false,
+   "title": "어린이놀이시설 보험 행안부시스템 등록(한국교육시설안전원 배상책임공제 가입증서 확인)",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-01-05-r2-006",
+   "date": "2027-01-05",
+   "weekly": false,
+   "title": "1.1. 전입자·전출자 처리(근무일수 및 자기개발비 사용여부통보, 맞춤형복지, 4대 보험)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-01-05-02",
+   "date": "2027-01-05",
+   "weekly": false,
+   "title": "12월 기지급액 연가보상비, 초과근무 정액분 정산 및 잔여연가 저축",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-01-05-r2-007",
+   "date": "2027-01-05",
+   "weekly": false,
+   "title": "인사변동자 중요직무급확인",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-01-05-r2-008",
+   "date": "2027-01-05",
+   "weekly": false,
+   "title": "공무원급여지급 시 중도입사자, 기간제교사 정근수당 확인",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-01-05-r2-009",
+   "date": "2027-01-05",
+   "weekly": false,
+   "title": "전월분 출납검사서(매월 5일 이내)",
+   "detail": "",
+   "category": "세입",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-01-06-r2-010",
+   "date": "2027-01-06",
+   "weekly": false,
+   "title": "시설 관리 각종 용역 검토(1개월 전 기한 만료 통보)",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-01-06-r2-011",
+   "date": "2027-01-06",
+   "weekly": false,
+   "title": "학교운영위원회 연간 운영계획안 수립",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-01-06-03",
+   "date": "2027-01-06",
+   "weekly": false,
+   "title": "여비 지급",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-01-06-r2-012",
+   "date": "2027-01-06",
+   "weekly": false,
+   "title": "2026년 상시근로자 장애인고용현황 보고자료(공문 시행 시)",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-01-07-r2-013",
+   "date": "2027-01-07",
+   "weekly": false,
+   "title": "겨울방학 중 시설보수",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-01-07-02",
+   "date": "2027-01-07",
+   "weekly": false,
+   "title": "2027년 상반기(3.1.)교육공무직원 정기전보 근무희망조사 제출",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-01-07-r2-014",
+   "date": "2027-01-07",
+   "weekly": false,
+   "title": "방과후학교 위탁학교 입찰 준비",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-01-07-r2-015",
+   "date": "2027-01-07",
+   "weekly": false,
+   "title": "연말정산 국세청 간소화서비스 오픈 전 급여담당자 나이스 확인(대상자, 비과세,기타소득,기타공제,기관공제 기부금 등)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-01-08-01",
+   "date": "2027-01-08",
+   "weekly": false,
+   "title": "나이스 급여 마감(10일)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-01-08-r2-016",
+   "date": "2027-01-08",
+   "weekly": false,
+   "title": "보험 등 세외 계좌 입금 확인",
+   "detail": "(교원,기간제교사,지방공무원,통합급여직종 개인부담금 및 통합급여직종 기관부담금)",
+   "category": "세입",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-01-08-03",
+   "date": "2027-01-08",
+   "weekly": false,
+   "title": "2027학년도 예산안 작성(권장)",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-01-08-r2-017",
+   "date": "2027-01-08",
+   "weekly": false,
+   "title": "2026년 하반기 지방공무원 휴직자 복무상황 신고서 및 근무실태 점검결과 제출(공문 시행 시)",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-01-08-r2-018",
+   "date": "2027-01-08",
+   "weekly": false,
+   "title": "하반기 지방공무원 초과근무 및 유연근무 운영실태 자체점검결과 제출(공문 시행 시)",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-01-09-r2-019",
+   "date": "2027-01-09",
+   "weekly": false,
+   "title": "연간 기본운영비 전입금 통보",
+   "detail": "",
+   "category": "세입",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-01-11-r2-020",
+   "date": "2027-01-11",
+   "weekly": false,
+   "title": "2026년도 물품 증감 및 현재액 보고서, 2027년도 물품 수급관리계획서 제출(K-에듀파인 물품관리시스템)",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-01-11-r2-021",
+   "date": "2027-01-11",
+   "weekly": false,
+   "title": "12월 4대 보험 납부세 신고 및 납부(10일,자동이체)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-01-11-r2-022",
+   "date": "2027-01-11",
+   "weekly": false,
+   "title": "12월 원천세 신고 및 납부(10일)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-01-12-r2-023",
+   "date": "2027-01-12",
+   "weekly": false,
+   "title": "하반기 업무추진비 사용내역 점검 실시 자료 제출(공문 시행 시)",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-01-12-02",
+   "date": "2027-01-12",
+   "weekly": false,
+   "title": "신용카드 결제일",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-01-12-r2-024",
+   "date": "2027-01-12",
+   "weekly": false,
+   "title": "급식 입찰공고",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-01-13-r2-025",
+   "date": "2027-01-13",
+   "weekly": false,
+   "title": "제2·3종시설물 유지관리계획 제출(FMS)(공문 시행 시)",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-01-14-r2-026",
+   "date": "2027-01-14",
+   "weekly": false,
+   "title": "4대 보험 취득·상실·변동 신고",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-01-14-r2-027",
+   "date": "2027-01-14",
+   "weekly": false,
+   "title": "방과후학교강사 고용보험 취득·상실신고(매월 15일까지)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-01-15-01",
+   "date": "2027-01-15",
+   "weekly": false,
+   "title": "2027학년도 예산 최종 검토(권장)",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-01-15-02",
+   "date": "2027-01-15",
+   "weekly": false,
+   "title": "대체인건비 등 신청",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-01-15-r2-028",
+   "date": "2027-01-15",
+   "weekly": false,
+   "title": "일용근로자 근로내용 확인신고(15일, 고용산재포탈)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-01-15-04",
+   "date": "2027-01-15",
+   "weekly": false,
+   "title": "17일 급여 지급(학교회계 지급대상자 지출)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-01-18-r2-029",
+   "date": "2027-01-18",
+   "weekly": false,
+   "title": "전년도 지방자치단체 교육투자 현황 자료 제출(공문 시행 시)",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-01-18-r2-030",
+   "date": "2027-01-18",
+   "weekly": false,
+   "title": "2026년 장애인근로자 현황 및 2027년도 고용계획 제출(공문 시행 시)",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-01-18-r2-031",
+   "date": "2027-01-18",
+   "weekly": false,
+   "title": "장애인·노인·임산부 등 편의시설 설치 지원 수요조사(공문 시행 시)",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-01-19-r2-032",
+   "date": "2027-01-19",
+   "weekly": false,
+   "title": "교직원 연말정산 공제자료 등록 권한 부여(교육청->학교)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-01-20-r2-033",
+   "date": "2027-01-20",
+   "weekly": false,
+   "title": "4대 보험 납부 고지 확인",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-01-20-r2-034",
+   "date": "2027-01-20",
+   "weekly": false,
+   "title": "클린재정 점검표 작성·결재 월 1회(20일 기준)",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-01-20-04",
+   "date": "2027-01-20",
+   "weekly": false,
+   "title": "2026년 교특회계 출납 정리 기한",
+   "detail": "",
+   "category": "세입",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-01-21-r2-035",
+   "date": "2027-01-21",
+   "weekly": false,
+   "title": "물품 등록 및 정리",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-01-21-02",
+   "date": "2027-01-21",
+   "weekly": false,
+   "title": "매입처별 세금계산서 합계표 홈택스 제출(7월~12월)",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-01-22-r2-036",
+   "date": "2027-01-22",
+   "weekly": false,
+   "title": "4분기 초과근무 교육",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-01-22-r2-037",
+   "date": "2027-01-22",
+   "weekly": false,
+   "title": "통합급여 공무직 4대 보험 기관부담금 신청",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-01-22-r2-038",
+   "date": "2027-01-22",
+   "weekly": false,
+   "title": "하반기 지방공무원 초과근무 자체점검(공문 시행 시)",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-01-25-01",
+   "date": "2027-01-25",
+   "weekly": false,
+   "title": "전년도 중소기업제품 구매실적 제출(공공구매종합정보망)",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-01-25-r2-039",
+   "date": "2027-01-25",
+   "weekly": false,
+   "title": "교직원 연말정산 본인 확인·마감 점검",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-01-25-r2-040",
+   "date": "2027-01-25",
+   "weekly": false,
+   "title": "교직원 연말정산 공제자료 등록 권한 회수",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-01-26-01",
+   "date": "2027-01-26",
+   "weekly": false,
+   "title": "신입생 수익자부담경비 납부방법신청 가정통신문",
+   "detail": "",
+   "category": "세입",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-01-27-01",
+   "date": "2027-01-27",
+   "weekly": false,
+   "title": "신용카드 결제일",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-01-27-r2-041",
+   "date": "2027-01-27",
+   "weekly": false,
+   "title": "4대 보험 기관부담금 세외 계좌 지출",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-01-28-r2-042",
+   "date": "2027-01-28",
+   "weekly": false,
+   "title": "1월 중대산업재해[안전보건도급협의체]",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-01-28-02",
+   "date": "2027-01-28",
+   "weekly": false,
+   "title": "학교회계 세출예산 집행률 점검",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-01-28-03",
+   "date": "2027-01-28",
+   "weekly": false,
+   "title": "연말정산 나이스 최종 마감",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-01-28-r2-043",
+   "date": "2027-01-28",
+   "weekly": false,
+   "title": "학교회계 예산안 제출(학교운영위원회)",
+   "detail": "회계연도 개시 30일 전",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-01-29-r2-044",
+   "date": "2027-01-29",
+   "weekly": false,
+   "title": "방과후학교 강사 (전)월보수액 통보(말일)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-01-29-02",
+   "date": "2027-01-29",
+   "weekly": false,
+   "title": "말일 급여 지급",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-01-29-03",
+   "date": "2027-01-29",
+   "weekly": false,
+   "title": "근로·사업·기타소득 간이지급명세서 제출",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-01-29-04",
+   "date": "2027-01-29",
+   "weekly": false,
+   "title": "일용근로소득 지급명세서 제출",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-01-29-r2-045",
+   "date": "2027-01-29",
+   "weekly": false,
+   "title": "2.1.자 지방공무원 정기 호봉 승급",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-02-01-01",
+   "date": "2027-02-01",
+   "weekly": false,
+   "title": "학교회계 추경예산편성(집행잔액 및 이월금 파악)",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-02-01-03",
+   "date": "2027-02-01",
+   "weekly": false,
+   "title": "교실 및 특별실 재배치",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-02-01-04",
+   "date": "2027-02-01",
+   "weekly": false,
+   "title": "직책급업무수행경비 지급",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-02-01-r2-046",
+   "date": "2027-02-01",
+   "weekly": false,
+   "title": "새 학기 대비 화재예방 안전점검",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-02-02-r2-047",
+   "date": "2027-02-02",
+   "weekly": false,
+   "title": "공유재산 사용·수익허가(6개월 이상 학교운영위원회 심의)",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-02-02-r2-048",
+   "date": "2027-02-02",
+   "weekly": false,
+   "title": "새 학기 대비 시설 안전점검",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-02-02-03",
+   "date": "2027-02-02",
+   "weekly": false,
+   "title": "학교운영위원회 규정 정비(2월말까지)",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-02-02-r2-049",
+   "date": "2027-02-02",
+   "weekly": false,
+   "title": "공무직 현원 변동 보고",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-02-02-r2-050",
+   "date": "2027-02-02",
+   "weekly": false,
+   "title": "설 명절휴가비 작업(공무원, 공무직)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-02-03-01",
+   "date": "2027-02-03",
+   "weekly": false,
+   "title": "2027.1.1.기준 지방공무원 승진후보자 명부 순위공개",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-02-03-02",
+   "date": "2027-02-03",
+   "weekly": false,
+   "title": "근로소득/의료비 지급명세서 홈택스 제출",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-02-04-01",
+   "date": "2027-02-04",
+   "weekly": false,
+   "title": "안전점검의 날",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-02-04-02",
+   "date": "2027-02-04",
+   "weekly": false,
+   "title": "연간 용역계약 체결",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-02-04-03",
+   "date": "2027-02-04",
+   "weekly": false,
+   "title": "여비 지급",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-02-05-r2-051",
+   "date": "2027-02-05",
+   "weekly": false,
+   "title": "보험 등 세외 계좌 입금 확인",
+   "detail": "",
+   "category": "세입",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-02-05-r2-052",
+   "date": "2027-02-05",
+   "weekly": false,
+   "title": "연말정산 근로소득 지급명세서(급여 마감 전) 홈택스 제출 :급여 마감 후 신고파일 수정 불가",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-02-05-r2-053",
+   "date": "2027-02-05",
+   "weekly": false,
+   "title": "연말정산 분할정산세금파악, 나이스 입력(전출예정 교원 및 교육공무직원 분할 환급 및 분할 징수 불가)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-02-05-r2-054",
+   "date": "2027-02-05",
+   "weekly": false,
+   "title": "전월분 출납검사서(매월 5일 이내)",
+   "detail": "",
+   "category": "세입",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-02-10-r2-055",
+   "date": "2027-02-10",
+   "weekly": false,
+   "title": "원천세 신고 및 납부마감(10일)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-02-10-r2-056",
+   "date": "2027-02-10",
+   "weekly": false,
+   "title": "4대 보험 신고 및 납부마감(10일,자동이체)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-02-10-r2-057",
+   "date": "2027-02-10",
+   "weekly": false,
+   "title": "나이스 급여 마감(10일, 연말정산 결과 반영)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-02-11-r2-058",
+   "date": "2027-02-11",
+   "weekly": false,
+   "title": "학교운영위원회 개최(2.23.까지): 본예산,추경,명시이월금,발전기금운용계획서 수립 포함",
+   "detail": "",
+   "category": "세입",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-02-11-r2-059",
+   "date": "2027-02-11",
+   "weekly": false,
+   "title": "학교발전기금 운용계획 수립(예결산소위원회 포함) 학교운영위원회 안건 심의",
+   "detail": "(학교운영위원회 심의·의결 후 1개월 이내 공개)",
+   "category": "세입",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-02-11-r2-060",
+   "date": "2027-02-11",
+   "weekly": false,
+   "title": "새 학기 대비 시설점검",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-02-12-r2-061",
+   "date": "2027-02-12",
+   "weekly": false,
+   "title": "급식 입찰공고",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-02-12-02",
+   "date": "2027-02-12",
+   "weekly": false,
+   "title": "신용카드 결제일",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-02-12-r2-062",
+   "date": "2027-02-12",
+   "weekly": false,
+   "title": "전년도 부서별 생산 기록물 정리완료(재분류·분류·편철, 권장)",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-02-12-r2-063",
+   "date": "2027-02-12",
+   "weekly": false,
+   "title": "4대 보험 취득·상실·변동 신고",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-02-15-01",
+   "date": "2027-02-15",
+   "weekly": false,
+   "title": "녹색제품 구매이행계획 제출",
+   "detail": "(https://ecosq.or.kr 직접 입력)(공문 시행 시)",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-02-15-02",
+   "date": "2027-02-15",
+   "weekly": false,
+   "title": "대체인건비 등 신청",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-02-15-r2-064",
+   "date": "2027-02-15",
+   "weekly": false,
+   "title": "일용근로자 근로내용 확인신고(15일)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-02-16-r2-065",
+   "date": "2027-02-16",
+   "weekly": false,
+   "title": "해빙기 교육시설 안전점검 결과 제출(교육시설통합정보시스템 입력)(공문 시행 시)",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-02-17-01",
+   "date": "2027-02-17",
+   "weekly": false,
+   "title": "17일 급여 지급(학교회계 지급대상자 지출)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-02-18-01",
+   "date": "2027-02-18",
+   "weekly": false,
+   "title": "인증신제품(NEP) 구매실적 및 구매계획 제출(시스템 입력 및 자료집계)",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-02-19-01",
+   "date": "2027-02-19",
+   "weekly": false,
+   "title": "학교회계 세출예산 집행률 점검",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-02-22-r2-066",
+   "date": "2027-02-22",
+   "weekly": false,
+   "title": "하반기 교육공무직원 및 특수직군 근무성적평가 계획 수립(말일까지)",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-02-22-r2-067",
+   "date": "2027-02-22",
+   "weekly": false,
+   "title": "클린재정 점검표 작성·결재 월 1회(20일 기준)",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-02-22-r2-068",
+   "date": "2027-02-22",
+   "weekly": false,
+   "title": "물품재물조사 실시(공문 시행 시)",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-02-22-r2-069",
+   "date": "2027-02-22",
+   "weekly": false,
+   "title": "4대 보험 납부 고지 확인(20일)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-02-23-r2-070",
+   "date": "2027-02-23",
+   "weekly": false,
+   "title": "물품 등록 및 정리",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-02-23-02",
+   "date": "2027-02-23",
+   "weekly": false,
+   "title": "학교운영위원회 구성 계획 수립",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-02-23-03",
+   "date": "2027-02-23",
+   "weekly": false,
+   "title": "학교운영위원회 활동사항 보고서 작성 및 공개",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-02-23-r2-071",
+   "date": "2027-02-23",
+   "weekly": false,
+   "title": "2027학년도 예산 학교운영위원회 심의 완료 (회계연도개시 5일전까지)",
+   "detail": "심의 완료 후 27학년도 예산 확정",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-02-24-r2-072",
+   "date": "2027-02-24",
+   "weekly": false,
+   "title": "3.1. 발령 전 4대 보험 보수총액신고서 제출[건강보험(3.10.까지),고용산재(3.15.까지)]",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-02-24-02",
+   "date": "2027-02-24",
+   "weekly": false,
+   "title": "카드 포인트 확인 적립",
+   "detail": "",
+   "category": "세입",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-02-24-r2-073",
+   "date": "2027-02-24",
+   "weekly": false,
+   "title": "통합급여 공무직 4대 보험 기관부담금 신청",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-02-24-r2-074",
+   "date": "2027-02-24",
+   "weekly": false,
+   "title": "2027학년도 배치도로 교육시설통합정보시스템 공간현황 및 냉난방기 중앙제어 실명 변경",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-02-25-r2-075",
+   "date": "2027-02-25",
+   "weekly": false,
+   "title": "4대 보험 기관부담금 세외 계좌 지출",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-02-25-02",
+   "date": "2027-02-25",
+   "weekly": false,
+   "title": "공무직 근속연수 재산정(3월)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-02-25-03",
+   "date": "2027-02-25",
+   "weekly": false,
+   "title": "학교회계 세출예산 집행률 점검",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-02-25-r2-076",
+   "date": "2027-02-25",
+   "weekly": false,
+   "title": "교육급여 졸업생 중지처리(고)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-02-25-04",
+   "date": "2027-02-25",
+   "weekly": false,
+   "title": "2월 중대산업재해[안전보건 도급 협의체]",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-02-25-r2-077",
+   "date": "2027-02-25",
+   "weekly": false,
+   "title": "현업업무종사자 반기별 정기교육 이수(9월~2월까지)",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-02-26-01",
+   "date": "2027-02-26",
+   "weekly": false,
+   "title": "2026학년도 예산 마감",
+   "detail": "2027. 2. 26.(금): 회계연도 종료 전(원인행위,징수결의)마감:종료일 2027. 2. 28.(일)",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-02-26-02",
+   "date": "2027-02-26",
+   "weekly": false,
+   "title": "최종추경 이후 목적사업비 교부시 간주추경 처리",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-02-26-03",
+   "date": "2027-02-26",
+   "weekly": false,
+   "title": "말일 급여 지급",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-02-26-04",
+   "date": "2027-02-26",
+   "weekly": false,
+   "title": "근로·사업·기타소득 간이지급명세서 제출",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-02-26-05",
+   "date": "2027-02-26",
+   "weekly": false,
+   "title": "일용근로소득 지급명세서 제출",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-02-26-r2-078",
+   "date": "2027-02-26",
+   "weekly": false,
+   "title": "전보 교육공무직원 서류 이관",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-02-26-r2-079",
+   "date": "2027-02-26",
+   "weekly": false,
+   "title": "3.1.자 지방공무원 정기 호봉 승급",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-02-26-r2-080",
+   "date": "2027-02-26",
+   "weekly": false,
+   "title": "방과후학교 강사 (전)월보수액 통보",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-02-26-08",
+   "date": "2027-02-26",
+   "weekly": false,
+   "title": "기타소득 지급명세서 제출 마감",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-02-26-r2-081",
+   "date": "2027-02-26",
+   "weekly": false,
+   "title": "학교발전기금,세외 출납 마감",
+   "detail": "",
+   "category": "세입",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-02-26-r2-082",
+   "date": "2027-02-26",
+   "weekly": false,
+   "title": "교육급여 졸업생 중지처리 점검(고)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-02-26-r2-083",
+   "date": "2027-02-26",
+   "weekly": false,
+   "title": "학교보안관 운영지원비 명시이월확정 점검",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-02-27-r2-084",
+   "date": "2027-02-27",
+   "weekly": false,
+   "title": "지급명세서 제출 기한 안내: 근로소득 3.10.까지 / 사업소득 3.10.까지 / 퇴직소득 3.10.까지 / 기타소득 2월 말일까지",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-03-02-01",
+   "date": "2027-03-02",
+   "weekly": false,
+   "title": "스쿨뱅킹 기초작업",
+   "detail": "(신입생 등록 및 진급처리)",
+   "category": "세입",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-03-02-02",
+   "date": "2027-03-02",
+   "weekly": false,
+   "title": "직책급업무추진비지급",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-03-02-03",
+   "date": "2027-03-02",
+   "weekly": false,
+   "title": "신규교육공무직원 근속연수 산정",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-03-02-04",
+   "date": "2027-03-02",
+   "weekly": false,
+   "title": "세입세출외현금이월",
+   "detail": "",
+   "category": "세입",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-03-02-05",
+   "date": "2027-03-02",
+   "weekly": false,
+   "title": "신용카드 결제일",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-03-02-06",
+   "date": "2027-03-02",
+   "weekly": false,
+   "title": "소방계획서 변경[실별 관리(화기)책임자 지정",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-03-02-r2-085",
+   "date": "2027-03-02",
+   "weekly": false,
+   "title": "공무직 현원 변동 보고",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-03-02-r2-086",
+   "date": "2027-03-02",
+   "weekly": false,
+   "title": "학교운영위원회 선출 홍보",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-03-02-r2-087",
+   "date": "2027-03-02",
+   "weekly": false,
+   "title": "학교운영위원회 선출위원회 구성(3.10.이전까지)",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-03-03-r2-088",
+   "date": "2027-03-03",
+   "weekly": false,
+   "title": "3.1. 전입자·전출자 처리(근무일수 통보, 맞춤형복지, 4대 보험)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-03-03-02",
+   "date": "2027-03-03",
+   "weekly": false,
+   "title": "인계인수서 작성(학교장 변경시)",
+   "detail": "은행 대표자 변경신청",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-03-03-03",
+   "date": "2027-03-03",
+   "weekly": false,
+   "title": "학교운영위원회 선출공고(선출관리위원회)",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-03-03-r2-089",
+   "date": "2027-03-03",
+   "weekly": false,
+   "title": "교육공무직원 수당관련 인사정비확인(담임수당, 보직수당,원로교사,시간선택제교사 여부)",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-03-04-01",
+   "date": "2027-03-04",
+   "weekly": false,
+   "title": "안전점검의 날",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-03-05-r2-090",
+   "date": "2027-03-05",
+   "weekly": false,
+   "title": "전보 교육공무직원 서류 이관",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-03-05-r2-091",
+   "date": "2027-03-05",
+   "weekly": false,
+   "title": "교육공무직원 전보자 인사기록카드,퇴직금 이관 점검",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-03-05-r2-092",
+   "date": "2027-03-05",
+   "weekly": false,
+   "title": "전월분 출납검사서(매월 5일 이내)",
+   "detail": "",
+   "category": "세입",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-03-05-03",
+   "date": "2027-03-05",
+   "weekly": false,
+   "title": "학교운영위원회 입후보자 등록(~3.11.까지)",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-03-08-01",
+   "date": "2027-03-08",
+   "weekly": false,
+   "title": "현장체험학습 전세버스 계약 준비",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-03-09-r2-093",
+   "date": "2027-03-09",
+   "weekly": false,
+   "title": "보험 등 세외 계좌 입금 확인",
+   "detail": "",
+   "category": "세입",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-03-10-r2-094",
+   "date": "2027-03-10",
+   "weekly": false,
+   "title": "2월 원천세 신고 및 납부마감(10일,자동이체,분할환급 주의)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-03-10-r2-095",
+   "date": "2027-03-10",
+   "weekly": false,
+   "title": "2월 4대 보험 신고 및 납부마감(10일)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-03-10-03",
+   "date": "2027-03-10",
+   "weekly": false,
+   "title": "나이스 급여 마감",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-03-10-04",
+   "date": "2027-03-10",
+   "weekly": false,
+   "title": "근로(의료), 사업, 퇴직소득 지급명세서 제출 마감",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-03-10-r2-096",
+   "date": "2027-03-10",
+   "weekly": false,
+   "title": "건강보험 보수총액 신고 마감(공무원,공무직)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-03-11-01",
+   "date": "2027-03-11",
+   "weekly": false,
+   "title": "학교운영위원회 입후보자 결격 조회(선거공보 전)",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-03-11-02",
+   "date": "2027-03-11",
+   "weekly": false,
+   "title": "학교운영위원회 선거공보(등록마감일-투표 전일)",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-03-12-r2-097",
+   "date": "2027-03-12",
+   "weekly": false,
+   "title": "급식 입찰공고",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-03-12-02",
+   "date": "2027-03-12",
+   "weekly": false,
+   "title": "신용카드 결제일",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-03-12-r2-098",
+   "date": "2027-03-12",
+   "weekly": false,
+   "title": "4대 보험 취득·상실·변동 신고",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-03-12-r2-099",
+   "date": "2027-03-12",
+   "weekly": false,
+   "title": "2월 퇴직, 기간제교원 퇴직금지급 마감일점검(지급방법주의!, 만 55세미만 여부 확인)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-03-15-01",
+   "date": "2027-03-15",
+   "weekly": false,
+   "title": "대체인건비 등 신청(지방공무원,교육공무직원)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-03-15-r2-100",
+   "date": "2027-03-15",
+   "weekly": false,
+   "title": "일용근로자 근로내용 확인신고(15일)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-03-15-r2-101",
+   "date": "2027-03-15",
+   "weekly": false,
+   "title": "고용·산재보험 보수총액 신고 마감(방과후학교강사 포함)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-03-16-r2-102",
+   "date": "2027-03-16",
+   "weekly": false,
+   "title": "2026년도 교육시설 시행/실행계획 결과 제출(교육시설통합정보시스템)(공문 시행 시)",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-03-17-01",
+   "date": "2027-03-17",
+   "weekly": false,
+   "title": "17일 급여 지급(학교회계 지급대상자 지출)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-03-17-02",
+   "date": "2027-03-17",
+   "weekly": false,
+   "title": "학부모총회 및 학부모위원 선거(교원위원 선출),당선자 공고(~3.17.)(임기만료일 10일 이전)",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-03-19-01",
+   "date": "2027-03-19",
+   "weekly": false,
+   "title": "2026학년도 학교회계 및 발전기금 출납 마감",
+   "detail": "3.20. 폐쇄일",
+   "category": "세입",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-03-19-r2-103",
+   "date": "2027-03-19",
+   "weekly": false,
+   "title": "발전기금 이월금징수(3.1~3. 20) 21일을 넘기지 않음",
+   "detail": "",
+   "category": "세입",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-03-22-01",
+   "date": "2027-03-22",
+   "weekly": false,
+   "title": "전년도 순세계잉여금 징수",
+   "detail": "",
+   "category": "세입",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-03-22-r2-104",
+   "date": "2027-03-22",
+   "weekly": false,
+   "title": "학교발전기금 결산보고(학교운영위원회 심의)",
+   "detail": "",
+   "category": "세입",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-03-22-r2-105",
+   "date": "2027-03-22",
+   "weekly": false,
+   "title": "4대 보험료 납부 고지 확인(20일)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-03-22-r2-106",
+   "date": "2027-03-22",
+   "weekly": false,
+   "title": "클린재정 점검표 작성·결재 월 1회(20일 기준)",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-03-23-01",
+   "date": "2027-03-23",
+   "weekly": false,
+   "title": "학교운영위원회 지역위원 선출(~3.30.까지)(임기만료일 전일)",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-03-24-01",
+   "date": "2027-03-24",
+   "weekly": false,
+   "title": "2027학년도 행정관련 교직원 교육",
+   "detail": "예산,업무추진비 교육 / 상반기 보안교육 실시(전 교직원 연 2회) / 1분기 초과근무 교육",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-03-25-r2-107",
+   "date": "2027-03-25",
+   "weekly": false,
+   "title": "통합급여 공무직 4대 보험 기관부담금 신청",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-03-25-r2-108",
+   "date": "2027-03-25",
+   "weekly": false,
+   "title": "상반기 물품 공동구매 대상 파악을 위한 수요조사 제출(공문 시행 시)",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-03-26-r2-109",
+   "date": "2027-03-26",
+   "weekly": false,
+   "title": "물품 등록 및 정리(권장)",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-03-26-r2-110",
+   "date": "2027-03-26",
+   "weekly": false,
+   "title": "4대 보험 기관부담금 세외 계좌 지출",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-03-26-r2-111",
+   "date": "2027-03-26",
+   "weekly": false,
+   "title": "상반기 교육시설통합정보시스템 시설현황 정기조사(공문 시행 시)",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-03-29-01",
+   "date": "2027-03-29",
+   "weekly": false,
+   "title": "신용카드 결제일",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-03-29-02",
+   "date": "2027-03-29",
+   "weekly": false,
+   "title": "3월 중대산업재해[안전보건 도급 협의체], 및 1분기 합동점검",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-03-30-01",
+   "date": "2027-03-30",
+   "weekly": false,
+   "title": "정기예금 예치(금액 및 기간 검토)",
+   "detail": "",
+   "category": "세입",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-03-30-r2-112",
+   "date": "2027-03-30",
+   "weekly": false,
+   "title": "4.1.자 지방공무원 정기 호봉 승급",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-03-30-r2-113",
+   "date": "2027-03-30",
+   "weekly": false,
+   "title": "학교발전기금 접수내역 학교운영위원회 보고 및 공개(4분기)",
+   "detail": "",
+   "category": "세입",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-03-30-r2-114",
+   "date": "2027-03-30",
+   "weekly": false,
+   "title": "2027년 1분기 지방공무원 휴직자 복무상황 보고(공문 시행 시)",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-03-31-01",
+   "date": "2027-03-31",
+   "weekly": false,
+   "title": "학교운영위원회 지역위원 당선자 공고",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-03-31-02",
+   "date": "2027-03-31",
+   "weekly": false,
+   "title": "말일 급여 지급",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-03-31-03",
+   "date": "2027-03-31",
+   "weekly": false,
+   "title": "일용근로소득 지급명세서 제출",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-03-31-04",
+   "date": "2027-03-31",
+   "weekly": false,
+   "title": "근로·사업·기타소득 간이지급명세서 제출",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-03-31-r2-115",
+   "date": "2027-03-31",
+   "weekly": false,
+   "title": "방과후학교 강사 (전)월보수액 신고",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-04-01-01",
+   "date": "2027-04-01",
+   "weekly": false,
+   "title": "직책급업무수행경비 지급",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-04-01-r2-116",
+   "date": "2027-04-01",
+   "weekly": false,
+   "title": "공무직 현원 변동 보고",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-04-02-01",
+   "date": "2027-04-02",
+   "weekly": false,
+   "title": "여비 지급",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-04-05-r2-117",
+   "date": "2027-04-05",
+   "weekly": false,
+   "title": "전월분 출납검사서(매월 5일 이내)",
+   "detail": "",
+   "category": "세입",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-04-05-02",
+   "date": "2027-04-05",
+   "weekly": false,
+   "title": "안전점검의 날",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-04-06-01",
+   "date": "2027-04-06",
+   "weekly": false,
+   "title": "학교운영위원회 회의 개최(~4.15전까지)",
+   "detail": "26학년도 학교운영위원회 활동상황보고서 보고 / 26학년도 간주추경 보고(간주추경 있을 시)",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-04-06-r2-118",
+   "date": "2027-04-06",
+   "weekly": false,
+   "title": "위원장·부위원장 선출(임기개시일부터 15일 이내)[예결산소위원회 , 학교급식소위원회 구성]",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-04-07-r2-119",
+   "date": "2027-04-07",
+   "weekly": false,
+   "title": "학교발전기금 인계인수서(운영위원장 변경 시)",
+   "detail": "",
+   "category": "세입",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-04-07-02",
+   "date": "2027-04-07",
+   "weekly": false,
+   "title": "수목 소독 실시(권장)",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-04-08-r2-120",
+   "date": "2027-04-08",
+   "weekly": false,
+   "title": "졸업앨범계약(학교운영위원회 심의및제작계획 수립 이후)",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-04-08-02",
+   "date": "2027-04-08",
+   "weekly": false,
+   "title": "현장체험학습 전세버스 계약",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-04-09-r2-121",
+   "date": "2027-04-09",
+   "weekly": false,
+   "title": "나이스 급여 마감(10일, 건강·고용·연말정산 반영)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-04-09-r2-122",
+   "date": "2027-04-09",
+   "weekly": false,
+   "title": "보험 등 세외 계좌 입금 확인",
+   "detail": "",
+   "category": "세입",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-04-12-01",
+   "date": "2027-04-12",
+   "weekly": false,
+   "title": "신용카드 결제일",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-04-12-r2-123",
+   "date": "2027-04-12",
+   "weekly": false,
+   "title": "3월 4대 보험 신고 및 납부마감(10일)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-04-12-r2-124",
+   "date": "2027-04-12",
+   "weekly": false,
+   "title": "3월 원천세 신고 및 납부(10일)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-04-13-r2-125",
+   "date": "2027-04-13",
+   "weekly": false,
+   "title": "급식 입찰공고",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-04-13-02",
+   "date": "2027-04-13",
+   "weekly": false,
+   "title": "학교운영위원회 구성 결과 홍보",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-04-14-r2-126",
+   "date": "2027-04-14",
+   "weekly": false,
+   "title": "4대 보험 취득·상실·변동 신고",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-04-15-r2-127",
+   "date": "2027-04-15",
+   "weekly": false,
+   "title": "2027년도 상반기 정수물품 배정정수 정비 안내(공문 시행 시)",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-04-15-r2-128",
+   "date": "2027-04-15",
+   "weekly": false,
+   "title": "대체인건비 등 신청",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-04-15-r2-129",
+   "date": "2027-04-15",
+   "weekly": false,
+   "title": "일용근로자 근로내용 확인신고(15일)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-04-16-01",
+   "date": "2027-04-16",
+   "weekly": false,
+   "title": "17일 급여 지급(학교회계 지급대상자 지출)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-04-16-r2-130",
+   "date": "2027-04-16",
+   "weekly": false,
+   "title": "교육공무직원 교육부실태조사 자료 제출(공문 시행 시)",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-04-19-01",
+   "date": "2027-04-19",
+   "weekly": false,
+   "title": "운동장 배수로 점검",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-04-20-r2-131",
+   "date": "2027-04-20",
+   "weekly": false,
+   "title": "4대 보험 납부 고지서 확인",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-04-20-r2-132",
+   "date": "2027-04-20",
+   "weekly": false,
+   "title": "클린재정 점검표 작성·결재 월 1회(20일 기준)",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-04-21-r2-133",
+   "date": "2027-04-21",
+   "weekly": false,
+   "title": "학교 불법촬영 점검(연 2회)",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-04-23-r2-134",
+   "date": "2027-04-23",
+   "weekly": false,
+   "title": "통합급여 공무직 4대 보험 기관부담금 신청",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-04-26-01",
+   "date": "2027-04-26",
+   "weekly": false,
+   "title": "냉방기 청소 및 시운전(점검)",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-04-27-01",
+   "date": "2027-04-27",
+   "weekly": false,
+   "title": "신용카드 결제일",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-04-27-r2-135",
+   "date": "2027-04-27",
+   "weekly": false,
+   "title": "4대 보험 기관부담금 세외 계좌 지출",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-04-28-r2-136",
+   "date": "2027-04-28",
+   "weekly": false,
+   "title": "물품 등록 및 정리",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-04-28-02",
+   "date": "2027-04-28",
+   "weekly": false,
+   "title": "4월 중대산업재해[안전보건 도급 협의체]",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-04-28-03",
+   "date": "2027-04-28",
+   "weekly": false,
+   "title": "학교회계 세출예산 집행률 점검",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-04-29-01",
+   "date": "2027-04-29",
+   "weekly": false,
+   "title": "공무직 근속연수 재산정(5월)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-04-29-r2-137",
+   "date": "2027-04-29",
+   "weekly": false,
+   "title": "5.1.자 지방공무원 정기 호봉 승급",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-04-29-r2-138",
+   "date": "2027-04-29",
+   "weekly": false,
+   "title": "2026학년도 결산서 학교운영위원회 제출 최종 확인",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-04-30-01",
+   "date": "2027-04-30",
+   "weekly": false,
+   "title": "말일 급여 지급",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-04-30-02",
+   "date": "2027-04-30",
+   "weekly": false,
+   "title": "근로·사업·기타소득 간이지급명세서 제출",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-04-30-03",
+   "date": "2027-04-30",
+   "weekly": false,
+   "title": "일용근로소득 지급명세서 제출",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-04-30-r2-139",
+   "date": "2027-04-30",
+   "weekly": false,
+   "title": "방과후학교 강사 (전)월보수액 신고",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-05-04-01",
+   "date": "2027-05-04",
+   "weekly": false,
+   "title": "안전점검의 날",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-05-04-02",
+   "date": "2027-05-04",
+   "weekly": false,
+   "title": "직책급업무수행경비 지급",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-05-04-r2-140",
+   "date": "2027-05-04",
+   "weekly": false,
+   "title": "공무직 현원 변동 보고",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-05-06-r2-141",
+   "date": "2027-05-06",
+   "weekly": false,
+   "title": "전월분 출납검사서(매월 5일 이내)",
+   "detail": "",
+   "category": "세입",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-05-06-02",
+   "date": "2027-05-06",
+   "weekly": false,
+   "title": "여비 지급",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-05-07-r2-142",
+   "date": "2027-05-07",
+   "weekly": false,
+   "title": "보험 등 세외 계좌 입금 확인",
+   "detail": "",
+   "category": "세입",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-05-10-01",
+   "date": "2027-05-10",
+   "weekly": false,
+   "title": "4월 원천세 신고 및 납부",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-05-10-r2-143",
+   "date": "2027-05-10",
+   "weekly": false,
+   "title": "4월 4대 보험 신고 및 납부(자동이체)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-05-10-r2-144",
+   "date": "2027-05-10",
+   "weekly": false,
+   "title": "나이스 급여 마감(10일, NEIS기여금 반영)",
+   "detail": "※기여금 기준소득월액 반영",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-05-10-r2-145",
+   "date": "2027-05-10",
+   "weekly": false,
+   "title": "연말정산 환급 완료 시 보고",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-05-12-r2-146",
+   "date": "2027-05-12",
+   "weekly": false,
+   "title": "급식 입찰공고",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-05-12-02",
+   "date": "2027-05-12",
+   "weekly": false,
+   "title": "신용카드 결제일",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-05-14-r2-147",
+   "date": "2027-05-14",
+   "weekly": false,
+   "title": "4대 보험 취득·상실·변동 신고",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-05-14-02",
+   "date": "2027-05-14",
+   "weekly": false,
+   "title": "대체인건비 등 신청",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-05-17-01",
+   "date": "2027-05-17",
+   "weekly": false,
+   "title": "2026년 학교운영위원회 주요 운영현황 및 2027년 학교운영위원회 구성 현황 자료 제출",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-05-17-r2-148",
+   "date": "2027-05-17",
+   "weekly": false,
+   "title": "17일 급여 지급(학교회계 지급대상자 지출)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-05-17-r2-149",
+   "date": "2027-05-17",
+   "weekly": false,
+   "title": "일용근로자 근로내용 확인신고(15일)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-05-18-r2-150",
+   "date": "2027-05-18",
+   "weekly": false,
+   "title": "2027년 하반기 6급 이하 일반직공무원 전보 인사자료 제출(공문 시행 시)",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-05-19-r2-151",
+   "date": "2027-05-19",
+   "weekly": false,
+   "title": "2027년 기록물 생산현황(2026년 생산기록물) 제출(공문 시행 시)",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-05-20-r2-152",
+   "date": "2027-05-20",
+   "weekly": false,
+   "title": "클린재정 점검표 작성·결재 월 1회(20일 기준)",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-05-20-02",
+   "date": "2027-05-20",
+   "weekly": false,
+   "title": "상반기 가족수당 등 점검",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-05-20-r2-153",
+   "date": "2027-05-20",
+   "weekly": false,
+   "title": "4대 보험료 납부 고지 확인(20일)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-05-21-r2-154",
+   "date": "2027-05-21",
+   "weekly": false,
+   "title": "2026학년도 결산 심의와 결과 통보(권장)->공개 점검",
+   "detail": "5.31. 심의결과 통보기한(종료후3개월 이내)",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-05-24-r2-155",
+   "date": "2027-05-24",
+   "weekly": false,
+   "title": "통합급여 공무직 4대 보험 기관부담금 신청",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-05-24-r2-156",
+   "date": "2027-05-24",
+   "weekly": false,
+   "title": "전년도 하반기 가족수당 및 자녀학비보조수당 지급 운영실태 점검",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-05-26-r2-157",
+   "date": "2027-05-26",
+   "weekly": false,
+   "title": "물품 등록 및 정리",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-05-26-r2-158",
+   "date": "2027-05-26",
+   "weekly": false,
+   "title": "여름철 교육시설 안전점검 계획 알림 및 결과 제출(교육시설통합정보망)(공문 시행 시)",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-05-27-01",
+   "date": "2027-05-27",
+   "weekly": false,
+   "title": "신용카드 결제일",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-05-27-02",
+   "date": "2027-05-27",
+   "weekly": false,
+   "title": "5월 중대산업재해[안전보건 도급 협의체]",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-05-27-r2-159",
+   "date": "2027-05-27",
+   "weekly": false,
+   "title": "4대 보험 기관부담금 세외 계좌 지출",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-05-28-r2-160",
+   "date": "2027-05-28",
+   "weekly": false,
+   "title": "학교발전기금 결산 보고 및 공개 점검",
+   "detail": "",
+   "category": "세입",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-05-31-r2-161",
+   "date": "2027-05-31",
+   "weekly": false,
+   "title": "방과후학교 강사 (전)월보수액 신고",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-05-31-02",
+   "date": "2027-05-31",
+   "weekly": false,
+   "title": "말일 급여 지급",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-05-31-03",
+   "date": "2027-05-31",
+   "weekly": false,
+   "title": "근로·사업·기타소득 간이지급명세서 제출",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-05-31-04",
+   "date": "2027-05-31",
+   "weekly": false,
+   "title": "일용근로소득 지급명세서 제출",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-05-31-r2-162",
+   "date": "2027-05-31",
+   "weekly": false,
+   "title": "6.1.자 지방공무원 정기 호봉 승급",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-06-01-01",
+   "date": "2027-06-01",
+   "weekly": false,
+   "title": "직책급업무수행경비 지급",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-06-01-r2-163",
+   "date": "2027-06-01",
+   "weekly": false,
+   "title": "공무직 현원 변동 보고",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-06-04-01",
+   "date": "2027-06-04",
+   "weekly": false,
+   "title": "안전점검의 날",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-06-04-02",
+   "date": "2027-06-04",
+   "weekly": false,
+   "title": "여비 지급",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-06-07-r2-164",
+   "date": "2027-06-07",
+   "weekly": false,
+   "title": "전월분 출납검사서(매월 5일 이내)",
+   "detail": "",
+   "category": "세입",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-06-08-01",
+   "date": "2027-06-08",
+   "weekly": false,
+   "title": "장마 대비 점검(옥상,배수로,테라스 등)",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-06-09-r2-165",
+   "date": "2027-06-09",
+   "weekly": false,
+   "title": "보험 등 세외 계좌 입금 확인",
+   "detail": "",
+   "category": "세입",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-06-10-r2-166",
+   "date": "2027-06-10",
+   "weekly": false,
+   "title": "원천세 신고 및 납부마감(10일)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-06-10-r2-167",
+   "date": "2027-06-10",
+   "weekly": false,
+   "title": "4대 보험 신고 및 납부마감(10일)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-06-10-r2-168",
+   "date": "2027-06-10",
+   "weekly": false,
+   "title": "나이스 급여 마감(10일)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-06-10-r2-169",
+   "date": "2027-06-10",
+   "weekly": false,
+   "title": "공무원 급여 시 상반기연가보상비 5일분 지급(희망자에한함)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-06-11-r2-170",
+   "date": "2027-06-11",
+   "weekly": false,
+   "title": "급식 입찰공고",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-06-11-02",
+   "date": "2027-06-11",
+   "weekly": false,
+   "title": "학교회계 결산 공개 확인(학교운영위원회 심의 결과 통보 후 10일 이내 학교홈페이지 공개)",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-06-14-r2-171",
+   "date": "2027-06-14",
+   "weekly": false,
+   "title": "4대 보험 취득·상실·변동 신고",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-06-14-02",
+   "date": "2027-06-14",
+   "weekly": false,
+   "title": "신용카드 결제일",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-06-15-01",
+   "date": "2027-06-15",
+   "weekly": false,
+   "title": "대체인건비 등 신청(지방공무원,교육공무직)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-06-15-r2-172",
+   "date": "2027-06-15",
+   "weekly": false,
+   "title": "일용근로자 근로내용 확인신고(15일)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-06-16-01",
+   "date": "2027-06-16",
+   "weekly": false,
+   "title": "상반기 석면건축물 조사 및 기록 관리 (석면건축물위해성평가)",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-06-17-r2-173",
+   "date": "2027-06-17",
+   "weekly": false,
+   "title": "17일 급여 지급(학교회계 지급대상자 지출)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-06-18-r2-174",
+   "date": "2027-06-18",
+   "weekly": false,
+   "title": "6급 이하 일반직공무원 상반기 부서장 평가(공문 시행 시)",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-06-21-r2-175",
+   "date": "2027-06-21",
+   "weekly": false,
+   "title": "클린재정 점검표 작성·결재 월 1회(20일 기준)",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-06-21-r2-176",
+   "date": "2027-06-21",
+   "weekly": false,
+   "title": "4대 보험 납부 고지 확인",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-06-22-01",
+   "date": "2027-06-22",
+   "weekly": false,
+   "title": "교복공동구매 입찰 및 계약(학교운영위원회 심의 확인)",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-06-23-r2-177",
+   "date": "2027-06-23",
+   "weekly": false,
+   "title": "상반기 지방공무원 근무성적평정 자료 제출(공문 시행 시)",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-06-24-r2-178",
+   "date": "2027-06-24",
+   "weekly": false,
+   "title": "통합급여 공무직 4대 보험 기관부담금 신청",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-06-24-r2-179",
+   "date": "2027-06-24",
+   "weekly": false,
+   "title": "상반기 건축물 안전검검(연 2회)(교육청실시)",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-06-25-r2-180",
+   "date": "2027-06-25",
+   "weekly": false,
+   "title": "물품 등록 및 정리(권장)",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-06-25-r2-181",
+   "date": "2027-06-25",
+   "weekly": false,
+   "title": "4대 보험 기관부담금 세외 계좌 지출",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-06-28-01",
+   "date": "2027-06-28",
+   "weekly": false,
+   "title": "6월 중대산업재해[안전보건 도급 협의체], 및 2분기 합동점검",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-06-28-02",
+   "date": "2027-06-28",
+   "weekly": false,
+   "title": "신용카드 결제일",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-06-29-01",
+   "date": "2027-06-29",
+   "weekly": false,
+   "title": "공무직 근속연수 재산정(7월)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-06-29-r2-182",
+   "date": "2027-06-29",
+   "weekly": false,
+   "title": "7.1.자 지방공무원 정기 호봉 승급",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-06-29-r2-183",
+   "date": "2027-06-29",
+   "weekly": false,
+   "title": "학교발전기금 접수내역 학교운영위원회 보고 및 공개(1분기)",
+   "detail": "",
+   "category": "세입",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-06-30-01",
+   "date": "2027-06-30",
+   "weekly": false,
+   "title": "말일 급여 지급",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-06-30-02",
+   "date": "2027-06-30",
+   "weekly": false,
+   "title": "근로·사업·기타소득 간이지급명세서 제출",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-06-30-03",
+   "date": "2027-06-30",
+   "weekly": false,
+   "title": "일용근로소득 지급명세서 제출",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-06-30-r2-184",
+   "date": "2027-06-30",
+   "weekly": false,
+   "title": "방과후학교 강사 (전)월보수액 신고",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-07-01-01",
+   "date": "2027-07-01",
+   "weekly": false,
+   "title": "직책급업무수행경비 지급",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-07-01-r2-185",
+   "date": "2027-07-01",
+   "weekly": false,
+   "title": "인계인수 작성 점검(실장)",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-07-01-03",
+   "date": "2027-07-01",
+   "weekly": false,
+   "title": "행정실 업무분장 결재",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-07-01-r2-186",
+   "date": "2027-07-01",
+   "weekly": false,
+   "title": "관리자 선임신고 및 담당자 교육 확인(소방,가스,석면,승강기,놀이시설,기계설비)",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-07-01-r2-187",
+   "date": "2027-07-01",
+   "weekly": false,
+   "title": "교육시설통합시스템,시설물통합정보관리시스템 담당자 변경(인사이동 시)",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-07-02-r2-188",
+   "date": "2027-07-02",
+   "weekly": false,
+   "title": "7.1. 전입자·전출자 처리(근무일수,자기개발지 지급여부통보, 맞춤형복지, 4대 보험)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-07-02-r2-189",
+   "date": "2027-07-02",
+   "weekly": false,
+   "title": "공무직 현원 변동 보고",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-07-02-r2-190",
+   "date": "2027-07-02",
+   "weekly": false,
+   "title": "2027년 상반기 지방공무원 휴직자 복무상황 신고서 제출(공문시행 시)",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-07-05-r2-191",
+   "date": "2027-07-05",
+   "weekly": false,
+   "title": "전월분 출납검사서(매월 5일 이내)",
+   "detail": "",
+   "category": "세입",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-07-05-02",
+   "date": "2027-07-05",
+   "weekly": false,
+   "title": "안전점검의 날",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-07-05-r2-192",
+   "date": "2027-07-05",
+   "weekly": false,
+   "title": "지방공무원 초과근무(2분기) 및 겸직(상반기) 실태조사 제출(공문 시행 시)",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-07-07-r2-193",
+   "date": "2027-07-07",
+   "weekly": false,
+   "title": "2027년 하반기(9.1.)교육공무직원 정기전보 근무희망조사 제출(공문 시행 시)",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-07-08-r2-194",
+   "date": "2027-07-08",
+   "weekly": false,
+   "title": "보험 등 세외 계좌 입금 확인",
+   "detail": "",
+   "category": "세입",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-07-09-01",
+   "date": "2027-07-09",
+   "weekly": false,
+   "title": "나이스 급여 마감(공무원 정근수당 확인 국민연금인상분 반영, 방중비근무자 근무일수 확인하여 일할계산)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-07-12-r2-195",
+   "date": "2027-07-12",
+   "weekly": false,
+   "title": "6월 원천세 신고 및 납부(10일)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-07-12-r2-196",
+   "date": "2027-07-12",
+   "weekly": false,
+   "title": "6월 4대 보험 신고 및 납부(10일,자동이체)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-07-13-r2-197",
+   "date": "2027-07-13",
+   "weekly": false,
+   "title": "급식 입찰공고",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-07-13-02",
+   "date": "2027-07-13",
+   "weekly": false,
+   "title": "신용카드 결제일",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-07-14-r2-198",
+   "date": "2027-07-14",
+   "weekly": false,
+   "title": "4대 보험 변동내역 신고",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-07-14-r2-199",
+   "date": "2027-07-14",
+   "weekly": false,
+   "title": "행정실 하계 휴가계획 수립(권장)",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-07-15-r2-200",
+   "date": "2027-07-15",
+   "weekly": false,
+   "title": "일용근로자 근로내용 확인신고(15일)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-07-15-03",
+   "date": "2027-07-15",
+   "weekly": false,
+   "title": "대체인건비 등 신청",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-07-16-r2-201",
+   "date": "2027-07-16",
+   "weekly": false,
+   "title": "17일 급여 지급(학교회계 지급대상자 지출)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-07-20-r2-202",
+   "date": "2027-07-20",
+   "weekly": false,
+   "title": "4대 보험 납부 고지 확인",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-07-20-r2-203",
+   "date": "2027-07-20",
+   "weekly": false,
+   "title": "클린재정 점검표 작성·결재 월 1회(20일 기준)",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-07-21-r2-204",
+   "date": "2027-07-21",
+   "weekly": false,
+   "title": "물품 등록 및 정리",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-07-22-01",
+   "date": "2027-07-22",
+   "weekly": false,
+   "title": "여름방학 시설 보수 수요조사(교실,특별실,화장실 등)",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-07-23-r2-205",
+   "date": "2027-07-23",
+   "weekly": false,
+   "title": "통합급여 공무직 4대 보험 기관부담금 신청",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-07-26-01",
+   "date": "2027-07-26",
+   "weekly": false,
+   "title": "매입처별 세금계산서 합계표 홈택스 제출(1월~6월)",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-07-27-01",
+   "date": "2027-07-27",
+   "weekly": false,
+   "title": "신용카드 결제일",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-07-27-r2-206",
+   "date": "2027-07-27",
+   "weekly": false,
+   "title": "4대 보험 기관부담금 세외 계좌 지출",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-07-27-r2-207",
+   "date": "2027-07-27",
+   "weekly": false,
+   "title": "상반기 업무추진비 사용내역 점검 실시 및 자료 제출(공문 시행 시)",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-07-28-01",
+   "date": "2027-07-28",
+   "weekly": false,
+   "title": "7월 중대산업재해 [안전보건 도급 협의체]",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-07-29-r2-208",
+   "date": "2027-07-29",
+   "weekly": false,
+   "title": "8.1.자 지방공무원 정기 호봉 승급",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-07-29-r2-209",
+   "date": "2027-07-29",
+   "weekly": false,
+   "title": "2분기 초과근무 교육",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-07-29-r2-210",
+   "date": "2027-07-29",
+   "weekly": false,
+   "title": "상반기 업무추진비 사용내역 점검 실시 및 자료 제출(공문 시행 시)",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-07-29-r2-211",
+   "date": "2027-07-29",
+   "weekly": false,
+   "title": "상반기 지방공무원 초과근무 및 유연근무 운영실태 자체점검결과 제출(공문 시행 시)",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-07-30-01",
+   "date": "2027-07-30",
+   "weekly": false,
+   "title": "말일 급여 지급",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-07-30-02",
+   "date": "2027-07-30",
+   "weekly": false,
+   "title": "근로·사업·기타소득 간이지급명세서 제출",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-07-30-03",
+   "date": "2027-07-30",
+   "weekly": false,
+   "title": "일용근로소득 지급명세서 제출",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-07-30-r2-212",
+   "date": "2027-07-30",
+   "weekly": false,
+   "title": "방과후학교 강사 (전)월보수액 신고",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-08-02-01",
+   "date": "2027-08-02",
+   "weekly": false,
+   "title": "직책급업무수행경비 지급",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-08-02-02",
+   "date": "2027-08-02",
+   "weekly": false,
+   "title": "학교회계 세출예산 예비결산(7월말 기준) 자체",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-08-02-r2-213",
+   "date": "2027-08-02",
+   "weekly": false,
+   "title": "공무직 현원 변동 보고",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-08-03-01",
+   "date": "2027-08-03",
+   "weekly": false,
+   "title": "2027.7.31. 기준 지방공무원 승진후보자 명부 순위 공개",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-08-04-01",
+   "date": "2027-08-04",
+   "weekly": false,
+   "title": "안전점검의 날",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-08-04-02",
+   "date": "2027-08-04",
+   "weekly": false,
+   "title": "여비 지급",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-08-05-r2-214",
+   "date": "2027-08-05",
+   "weekly": false,
+   "title": "전월분 출납검사서(매월 5일 이내)",
+   "detail": "",
+   "category": "세입",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-08-09-01",
+   "date": "2027-08-09",
+   "weekly": false,
+   "title": "개학 전 시설 점검",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-08-09-02",
+   "date": "2027-08-09",
+   "weekly": false,
+   "title": "하반기 대비 화재예방 안전점검",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-08-09-r2-215",
+   "date": "2027-08-09",
+   "weekly": false,
+   "title": "보험 등 세외 계좌 입금 확인",
+   "detail": "",
+   "category": "세입",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-08-10-01",
+   "date": "2027-08-10",
+   "weekly": false,
+   "title": "7월 원천세 신고 및 납부",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-08-10-r2-216",
+   "date": "2027-08-10",
+   "weekly": false,
+   "title": "7월 4대 보험 신고 및 납부",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-08-10-03",
+   "date": "2027-08-10",
+   "weekly": false,
+   "title": "나이스 급여 마감",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-08-12-r2-217",
+   "date": "2027-08-12",
+   "weekly": false,
+   "title": "급식 입찰공고",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-08-12-02",
+   "date": "2027-08-12",
+   "weekly": false,
+   "title": "신용카드 결제일",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-08-13-r2-218",
+   "date": "2027-08-13",
+   "weekly": false,
+   "title": "4대 보험 취득·상실·변동 신고",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-08-13-02",
+   "date": "2027-08-13",
+   "weekly": false,
+   "title": "대체인건비 등 신청",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-08-17-r2-219",
+   "date": "2027-08-17",
+   "weekly": false,
+   "title": "17일 급여 지급(학교회계 지급대상자 지출)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-08-17-r2-220",
+   "date": "2027-08-17",
+   "weekly": false,
+   "title": "일용근로자 근로내용 확인신고(15일)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-08-18-01",
+   "date": "2027-08-18",
+   "weekly": false,
+   "title": "태풍 대비 시설점검",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-08-19-r2-221",
+   "date": "2027-08-19",
+   "weekly": false,
+   "title": "상반기 상시근로자 장애인고용현황 자료 제출(공문 시행 시)",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-08-20-r2-222",
+   "date": "2027-08-20",
+   "weekly": false,
+   "title": "4대 보험 납부 고지 확인(20일)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-08-20-r2-223",
+   "date": "2027-08-20",
+   "weekly": false,
+   "title": "클린재정 점검표 작성·결재 월 1회(20일 기준)",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-08-23-r2-224",
+   "date": "2027-08-23",
+   "weekly": false,
+   "title": "상반기 교육공무직원 및 특수직군 근무성적평가 계획 수립(말일까지 평가완료)",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-08-24-r2-225",
+   "date": "2027-08-24",
+   "weekly": false,
+   "title": "통합급여 공무직 4대 보험 기관부담금 신청",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-08-26-r2-226",
+   "date": "2027-08-26",
+   "weekly": false,
+   "title": "물품 등록 및 정리",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-08-27-01",
+   "date": "2027-08-27",
+   "weekly": false,
+   "title": "8월 중대산업재해[안전보건 도급 협의체]",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-08-27-02",
+   "date": "2027-08-27",
+   "weekly": false,
+   "title": "신용카드 결제일",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-08-27-r2-227",
+   "date": "2027-08-27",
+   "weekly": false,
+   "title": "4대 보험 기관부담금 세외 계좌 지출",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-08-30-01",
+   "date": "2027-08-30",
+   "weekly": false,
+   "title": "공무직 근속연수 재산정(9월)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-08-30-r2-228",
+   "date": "2027-08-30",
+   "weekly": false,
+   "title": "9.1.자 지방공무원 정기 호봉 승급",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-08-30-r2-229",
+   "date": "2027-08-30",
+   "weekly": false,
+   "title": "현업업무종사자 반기별 정기교육 이수(12시간)",
+   "detail": "3월~8월까지",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-08-31-r2-230",
+   "date": "2027-08-31",
+   "weekly": false,
+   "title": "전보 교육공무직원 서류 이관",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-08-31-02",
+   "date": "2027-08-31",
+   "weekly": false,
+   "title": "말일 급여 지급",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-08-31-r2-231",
+   "date": "2027-08-31",
+   "weekly": false,
+   "title": "방과후학교 강사 (전)월보수액 신고",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-08-31-04",
+   "date": "2027-08-31",
+   "weekly": false,
+   "title": "근로·사업·기타소득 간이지급명세서 제출",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-08-31-05",
+   "date": "2027-08-31",
+   "weekly": false,
+   "title": "일용근로소득 지급명세서 제출",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-09-01-01",
+   "date": "2027-09-01",
+   "weekly": false,
+   "title": "직책급업무수행경비 지급",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-09-01-02",
+   "date": "2027-09-01",
+   "weekly": false,
+   "title": "인계인수서 작성(학교장 발령시)",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-09-01-03",
+   "date": "2027-09-01",
+   "weekly": false,
+   "title": "하반기 보안교육 실시(전 교직원 연 2회)",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-09-02-r2-232",
+   "date": "2027-09-02",
+   "weekly": false,
+   "title": "9.1. 전입자·전출자 처리(근무일수 통보, 맞춤형복지, 4대 보험)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-09-02-02",
+   "date": "2027-09-02",
+   "weekly": false,
+   "title": "신규교육공무직원 근속연수 산정",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-09-02-r2-233",
+   "date": "2027-09-02",
+   "weekly": false,
+   "title": "공무직 현원 변동 보고",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-09-02-r2-234",
+   "date": "2027-09-02",
+   "weekly": false,
+   "title": "명절휴가비 나이스작업(공문 시행 시)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-09-03-01",
+   "date": "2027-09-03",
+   "weekly": false,
+   "title": "여비 지급",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-09-06-r2-235",
+   "date": "2027-09-06",
+   "weekly": false,
+   "title": "전월분 출납검사서(매월 5일 이내)",
+   "detail": "",
+   "category": "세입",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-09-06-02",
+   "date": "2027-09-06",
+   "weekly": false,
+   "title": "안전점검의 날",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-09-09-r2-236",
+   "date": "2027-09-09",
+   "weekly": false,
+   "title": "보험 등 세외 계좌 입금 확인",
+   "detail": "",
+   "category": "세입",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-09-10-r2-237",
+   "date": "2027-09-10",
+   "weekly": false,
+   "title": "8월 원천세 신고 및 납부(10일)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-09-10-r2-238",
+   "date": "2027-09-10",
+   "weekly": false,
+   "title": "8월 4대 보험 신고 및 납부(10일,자동이체)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-09-10-r2-239",
+   "date": "2027-09-10",
+   "weekly": false,
+   "title": "4대 보험 취득·상실·변동 신고",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-09-10-04",
+   "date": "2027-09-10",
+   "weekly": false,
+   "title": "나이스 급여 마감",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-09-13-r2-240",
+   "date": "2027-09-13",
+   "weekly": false,
+   "title": "급식 입찰공고",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-09-13-02",
+   "date": "2027-09-13",
+   "weekly": false,
+   "title": "대체인건비 등 신청",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-09-13-03",
+   "date": "2027-09-13",
+   "weekly": false,
+   "title": "신용카드 결제일",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-09-17-r2-241",
+   "date": "2027-09-17",
+   "weekly": false,
+   "title": "17일 급여 지급(학교회계 지급대상자 지출)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-09-17-r2-242",
+   "date": "2027-09-17",
+   "weekly": false,
+   "title": "일용근로자 근로내용 확인신고(15일)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-09-20-r2-243",
+   "date": "2027-09-20",
+   "weekly": false,
+   "title": "클린재정 점검표 작성·결재 월 1회(20일 기준)",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-09-20-r2-244",
+   "date": "2027-09-20",
+   "weekly": false,
+   "title": "4대 보험 납부 고지 확인",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-09-21-01",
+   "date": "2027-09-21",
+   "weekly": false,
+   "title": "화단 및 조경 환경정리(권장)",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-09-22-r2-245",
+   "date": "2027-09-22",
+   "weekly": false,
+   "title": "물품 등록 및 정리(권장)",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-09-23-r2-246",
+   "date": "2027-09-23",
+   "weekly": false,
+   "title": "통합급여 공무직 4대 보험 기관부담금 신청",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-09-24-r2-247",
+   "date": "2027-09-24",
+   "weekly": false,
+   "title": "하반기 물품 공동구매 대상 파악을 위한 수요조사 제출(공문 시행 시)",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-09-27-r2-248",
+   "date": "2027-09-27",
+   "weekly": false,
+   "title": "10.1.자 지방공무원 정기 호봉 승급",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-09-27-r2-249",
+   "date": "2027-09-27",
+   "weekly": false,
+   "title": "4대 보험 기관부담금 세외 계좌 지출",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-09-27-r2-250",
+   "date": "2027-09-27",
+   "weekly": false,
+   "title": "(정기)위험성평가 매년 1회 실시 점검(전년도 일시 확인)",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-09-27-r2-251",
+   "date": "2027-09-27",
+   "weekly": false,
+   "title": "근골격계부담작업 유해요인조사 점검 (3년마다 1회 실시)",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-09-28-01",
+   "date": "2027-09-28",
+   "weekly": false,
+   "title": "신용카드 결제일",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-09-28-02",
+   "date": "2027-09-28",
+   "weekly": false,
+   "title": "9월 중대산업재해[안전보건 도급 협의체], 및 3분기 합동점검",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-09-29-01",
+   "date": "2027-09-29",
+   "weekly": false,
+   "title": "건강보험공단 보수총액신고와 국세청 연말정산 신고내역이 상이하여 건강보험료 과오납 청구 가능성 존재 확인",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-09-29-r2-252",
+   "date": "2027-09-29",
+   "weekly": false,
+   "title": "학교발전기금 접수내역 학교운영위원회 보고 및 공개(2분기)",
+   "detail": "",
+   "category": "세입",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-09-30-01",
+   "date": "2027-09-30",
+   "weekly": false,
+   "title": "일용근로소득 지급명세서 제출",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-09-30-r2-253",
+   "date": "2027-09-30",
+   "weekly": false,
+   "title": "방과후학교 강사 (전)월보수액 신고",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-09-30-03",
+   "date": "2027-09-30",
+   "weekly": false,
+   "title": "근로·사업·기타소득 간이지급명세서 제출",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-09-30-04",
+   "date": "2027-09-30",
+   "weekly": false,
+   "title": "말일 급여 지급",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-10-01-01",
+   "date": "2027-10-01",
+   "weekly": false,
+   "title": "직책급업무수행경비 지급",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-10-01-r2-254",
+   "date": "2027-10-01",
+   "weekly": false,
+   "title": "공무직 현원 변동 보고",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-10-05-r2-255",
+   "date": "2027-10-05",
+   "weekly": false,
+   "title": "전월분 출납검사서(매월 5일 이내)",
+   "detail": "",
+   "category": "세입",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-10-05-02",
+   "date": "2027-10-05",
+   "weekly": false,
+   "title": "안전점검의 날",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-10-05-03",
+   "date": "2027-10-05",
+   "weekly": false,
+   "title": "여비 지급",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-10-06-r2-256",
+   "date": "2027-10-06",
+   "weekly": false,
+   "title": "2027년 3분기 지방공무원 휴직자 복무상황 보고(공문 시행 시)",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-10-07-r2-257",
+   "date": "2027-10-07",
+   "weekly": false,
+   "title": "보험 등 세외 계좌 입금 확인",
+   "detail": "",
+   "category": "세입",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-10-08-01",
+   "date": "2027-10-08",
+   "weekly": false,
+   "title": "나이스 급여 마감(10일)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-10-12-01",
+   "date": "2027-10-12",
+   "weekly": false,
+   "title": "원천세 신고 및 납부(10일)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-10-12-r2-258",
+   "date": "2027-10-12",
+   "weekly": false,
+   "title": "4대 보험 신고 및 납부마감(10일,자동이체)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-10-12-r2-259",
+   "date": "2027-10-12",
+   "weekly": false,
+   "title": "급식 입찰공고",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-10-12-04",
+   "date": "2027-10-12",
+   "weekly": false,
+   "title": "신용카드 결제일",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-10-13-r2-260",
+   "date": "2027-10-13",
+   "weekly": false,
+   "title": "2027년 기록물평가심의회 결과 및 폐기 확정 기록물 정리 알림(공문 시행 시)",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-10-14-r2-261",
+   "date": "2027-10-14",
+   "weekly": false,
+   "title": "4대 보험 취득·상실·변동 신고",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-10-15-r2-262",
+   "date": "2027-10-15",
+   "weekly": false,
+   "title": "17일 급여 지급(학교회계 지급대상자 지출)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-10-15-r2-263",
+   "date": "2027-10-15",
+   "weekly": false,
+   "title": "일용근로자 근로내용 확인신고(15일)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-10-15-03",
+   "date": "2027-10-15",
+   "weekly": false,
+   "title": "대체인건비 등 신청",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-10-18-01",
+   "date": "2027-10-18",
+   "weekly": false,
+   "title": "난방기 청소 및 시운전(점검)",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-10-19-r2-264",
+   "date": "2027-10-19",
+   "weekly": false,
+   "title": "학교 불법촬영 점검(연 2회)",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-10-20-r2-265",
+   "date": "2027-10-20",
+   "weekly": false,
+   "title": "4대 보험 납부 고지 확인",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-10-20-02",
+   "date": "2027-10-20",
+   "weekly": false,
+   "title": "3분기 초과근무 교육 연수",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-10-20-03",
+   "date": "2027-10-20",
+   "weekly": false,
+   "title": "하반기 가족수당 등 점검",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-10-20-r2-266",
+   "date": "2027-10-20",
+   "weekly": false,
+   "title": "클린재정 점검표 작성·결재 월 1회(20일 기준)",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-10-22-r2-267",
+   "date": "2027-10-22",
+   "weekly": false,
+   "title": "통합급여 공무직 4대 보험 기관부담금 신청",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-10-25-r2-268",
+   "date": "2027-10-25",
+   "weekly": false,
+   "title": "2027년도 공유재산 실태조사 확인(공문 시행 시)",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-10-27-01",
+   "date": "2027-10-27",
+   "weekly": false,
+   "title": "신용카드 결제일",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-10-27-02",
+   "date": "2027-10-27",
+   "weekly": false,
+   "title": "10월 중대산업재해 [안전보건 도급 협의체]",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-10-27-r2-269",
+   "date": "2027-10-27",
+   "weekly": false,
+   "title": "4대 보험 기관부담금 세외 계좌 지출",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-10-27-r2-270",
+   "date": "2027-10-27",
+   "weekly": false,
+   "title": "11.1.자 지방공무원 정기 호봉 승급",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-10-28-01",
+   "date": "2027-10-28",
+   "weekly": false,
+   "title": "공무직 근속연수 재산정(11월)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-10-28-r2-271",
+   "date": "2027-10-28",
+   "weekly": false,
+   "title": "근로복지공단 보수총액신고와 국세청 연말정산 신고내역이 상이하여 고용보험료 과오납 청구 가능성 존재 확인",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-10-29-01",
+   "date": "2027-10-29",
+   "weekly": false,
+   "title": "말일 급여 지급",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-10-29-02",
+   "date": "2027-10-29",
+   "weekly": false,
+   "title": "근로·사업·기타소득 간이지급명세서 제출",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-10-29-03",
+   "date": "2027-10-29",
+   "weekly": false,
+   "title": "일용근로소득 지급명세서 제출",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-10-29-r2-272",
+   "date": "2027-10-29",
+   "weekly": false,
+   "title": "방과후학교 강사 (전)월보수액 신고",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-11-01-01",
+   "date": "2027-11-01",
+   "weekly": false,
+   "title": "추경예산편성(부서별 집행잔액 반납 및 신규예산 확인)",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-11-02-01",
+   "date": "2027-11-02",
+   "weekly": false,
+   "title": "직책급업무수행경비 지급",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-11-02-r2-273",
+   "date": "2027-11-02",
+   "weekly": false,
+   "title": "공무직 현원 변동 보고",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-11-04-01",
+   "date": "2027-11-04",
+   "weekly": false,
+   "title": "안전점검의 날",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-11-04-02",
+   "date": "2027-11-04",
+   "weekly": false,
+   "title": "여비 지급",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-11-05-r2-274",
+   "date": "2027-11-05",
+   "weekly": false,
+   "title": "전월분 출납검사서(매월 5일 이내)",
+   "detail": "",
+   "category": "세입",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-11-09-r2-275",
+   "date": "2027-11-09",
+   "weekly": false,
+   "title": "보험 등 세외 계좌 입금 확인",
+   "detail": "",
+   "category": "세입",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-11-10-01",
+   "date": "2027-11-10",
+   "weekly": false,
+   "title": "원천세 신고 및 납부",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-11-10-r2-276",
+   "date": "2027-11-10",
+   "weekly": false,
+   "title": "4대 보험 신고 및 납부",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-11-10-03",
+   "date": "2027-11-10",
+   "weekly": false,
+   "title": "나이스 급여 마감",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-11-11-r2-277",
+   "date": "2027-11-11",
+   "weekly": false,
+   "title": "급식 입찰공고",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-11-11-r2-278",
+   "date": "2027-11-11",
+   "weekly": false,
+   "title": "2027년 상반기 6급 이하 일반직공무원 전보 관련 인사자료 제출",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-11-12-01",
+   "date": "2027-11-12",
+   "weekly": false,
+   "title": "신용카드 결제일",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-11-12-r2-279",
+   "date": "2027-11-12",
+   "weekly": false,
+   "title": "4대 보험 취득·상실·변동 신고",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-11-15-01",
+   "date": "2027-11-15",
+   "weekly": false,
+   "title": "대체인건비 등 신청",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-11-15-r2-280",
+   "date": "2027-11-15",
+   "weekly": false,
+   "title": "일용근로자 근로내용 확인신고(15일)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-11-16-01",
+   "date": "2027-11-16",
+   "weekly": false,
+   "title": "교육시설공제 정기가입[한국교육시설안전원 공제정보망]",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-11-17-r2-281",
+   "date": "2027-11-17",
+   "weekly": false,
+   "title": "17일 급여 지급(학교회계 지급대상자 지출)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-11-18-01",
+   "date": "2027-11-18",
+   "weekly": false,
+   "title": "겨울철 교육시설 안전점검 결과 제출(교육시설통합정보시스템 입력)",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-11-22-r2-282",
+   "date": "2027-11-22",
+   "weekly": false,
+   "title": "4대 보험 납부 고지 확인(20일)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-11-22-r2-283",
+   "date": "2027-11-22",
+   "weekly": false,
+   "title": "클린재정 점검표 작성·결재 월 1회(20일 기준)",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-11-24-r2-284",
+   "date": "2027-11-24",
+   "weekly": false,
+   "title": "통합급여 공무직 4대 보험 기관부담금 신청",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-11-25-01",
+   "date": "2027-11-25",
+   "weekly": false,
+   "title": "옥외 수도시설 퇴수(동파예방)",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-11-26-r2-285",
+   "date": "2027-11-26",
+   "weekly": false,
+   "title": "물품 등록 및 정리",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-11-26-02",
+   "date": "2027-11-26",
+   "weekly": false,
+   "title": "11월 중대산업재해[안전보건 도급 협의체]",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-11-26-r2-286",
+   "date": "2027-11-26",
+   "weekly": false,
+   "title": "4대 보험 기관부담금 세외 계좌 지출",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-11-29-01",
+   "date": "2027-11-29",
+   "weekly": false,
+   "title": "신용카드 결제일",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-11-29-r2-287",
+   "date": "2027-11-29",
+   "weekly": false,
+   "title": "12.1.자 지방공무원 정기 호봉 승급",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-11-29-r2-288",
+   "date": "2027-11-29",
+   "weekly": false,
+   "title": "성과지표 학교회계 효율적 집행 점검(교육운영비,학습준비물,학생복지비)(권장)",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-11-30-01",
+   "date": "2027-11-30",
+   "weekly": false,
+   "title": "말일 급여 지급",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-11-30-02",
+   "date": "2027-11-30",
+   "weekly": false,
+   "title": "근로·사업·기타소득 간이지급명세서 제출",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-11-30-03",
+   "date": "2027-11-30",
+   "weekly": false,
+   "title": "일용근로소득 지급명세서 제출",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-11-30-r2-289",
+   "date": "2027-11-30",
+   "weekly": false,
+   "title": "방과후학교 강사 (전)월보수액 신고",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-12-01-01",
+   "date": "2027-12-01",
+   "weekly": false,
+   "title": "직책급업무수행경비 지급",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-12-02-r2-290",
+   "date": "2027-12-02",
+   "weekly": false,
+   "title": "공무직 현원 변동 보고",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-12-03-01",
+   "date": "2027-12-03",
+   "weekly": false,
+   "title": "여비 지급",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-12-06-r2-291",
+   "date": "2027-12-06",
+   "weekly": false,
+   "title": "전월분 출납검사서(매월 5일 이내)",
+   "detail": "",
+   "category": "세입",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-12-06-02",
+   "date": "2027-12-06",
+   "weekly": false,
+   "title": "안전점검의 날",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-12-07-01",
+   "date": "2027-12-07",
+   "weekly": false,
+   "title": "학교회계 세출예산 예비결산(11월말 기준) 제출",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-12-08-01",
+   "date": "2027-12-08",
+   "weekly": false,
+   "title": "예산편성 교직원 교육",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-12-09-r2-292",
+   "date": "2027-12-09",
+   "weekly": false,
+   "title": "보험 등 세외 계좌 입금 확인",
+   "detail": "",
+   "category": "세입",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-12-09-r2-293",
+   "date": "2027-12-09",
+   "weekly": false,
+   "title": "안전·유지관리 기준 준수 점검(공문 시행 시)(시설통합정보시스템 입력)",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-12-09-r2-294",
+   "date": "2027-12-09",
+   "weekly": false,
+   "title": "내년도 본예산 부서별 예산요구서 취합",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-12-10-r2-295",
+   "date": "2027-12-10",
+   "weekly": false,
+   "title": "나이스 급여 마감(시간외 정액분 선지급방중 비근무 대상자 급여 일할계산)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-12-10-r2-296",
+   "date": "2027-12-10",
+   "weekly": false,
+   "title": "11월 4대 보험 신고 및 납부",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-12-10-03",
+   "date": "2027-12-10",
+   "weekly": false,
+   "title": "11월 원천세 신고 및 납부",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-12-10-r2-297",
+   "date": "2027-12-10",
+   "weekly": false,
+   "title": "내년도 예산(안) 편성 작업",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-12-13-01",
+   "date": "2027-12-13",
+   "weekly": false,
+   "title": "방학 중 시설 보수 수요조사",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-12-13-02",
+   "date": "2027-12-13",
+   "weekly": false,
+   "title": "소방계획서 수립(~말일까지)",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-12-13-03",
+   "date": "2027-12-13",
+   "weekly": false,
+   "title": "신용카드 결제일",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-12-13-r2-298",
+   "date": "2027-12-13",
+   "weekly": false,
+   "title": "급식 입찰공고",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-12-14-r2-299",
+   "date": "2027-12-14",
+   "weekly": false,
+   "title": "4대 보험 취득·상실·변동 신고",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-12-14-r2-300",
+   "date": "2027-12-14",
+   "weekly": false,
+   "title": "2027년 교육시설 실행계획 제출(교육시설통합정보시스템 입력)(공문 시행 시)",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-12-15-02",
+   "date": "2027-12-15",
+   "weekly": false,
+   "title": "대체인건비 등 신청",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-12-15-r2-301",
+   "date": "2027-12-15",
+   "weekly": false,
+   "title": "일용근로자 근로내용 확인신고(15일)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-12-16-r2-302",
+   "date": "2027-12-16",
+   "weekly": false,
+   "title": "하반기 지방공무원 근무성적평정 자료 제출(공문 시행 시)",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-12-16-r2-303",
+   "date": "2027-12-16",
+   "weekly": false,
+   "title": "하반기 석면건축물 조사 및 기록 관리 (석면건축물위해성평가)(공문 시행 시)",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-12-17-r2-304",
+   "date": "2027-12-17",
+   "weekly": false,
+   "title": "17일 급여 지급(학교회계 지급대상자 지출)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-12-17-02",
+   "date": "2027-12-17",
+   "weekly": false,
+   "title": "맞춤형복지 청구마감(예정)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-12-20-r2-305",
+   "date": "2027-12-20",
+   "weekly": false,
+   "title": "동파 및 전기화재 대비 점검(급수관,아리수 퇴수,열선)",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-12-20-r2-306",
+   "date": "2027-12-20",
+   "weekly": false,
+   "title": "클린재정 점검표 작성·결재 월 1회(20일 기준)",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-12-20-r2-307",
+   "date": "2027-12-20",
+   "weekly": false,
+   "title": "4대 보험 납부 고지 확인",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-12-22-01",
+   "date": "2027-12-22",
+   "weekly": false,
+   "title": "교육시설의 안전 및 유지관리 실행 계획 수립(교육시설통합정보망 탑재)",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-12-23-01",
+   "date": "2027-12-23",
+   "weekly": false,
+   "title": "교육비 세액공제 제출(12월말)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-12-24-r2-308",
+   "date": "2027-12-24",
+   "weekly": false,
+   "title": "통합급여 공무직 4대 보험 기관부담금 신청",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-12-24-r2-309",
+   "date": "2027-12-24",
+   "weekly": false,
+   "title": "4대 보험 기관부담금 세외 계좌 지출",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-12-28-01",
+   "date": "2027-12-28",
+   "weekly": false,
+   "title": "신용카드 결제일",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-12-28-02",
+   "date": "2027-12-28",
+   "weekly": false,
+   "title": "12월 중대산업재해[안전보건 도급 협의체], 및 4분기 합동점검",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-12-29-02",
+   "date": "2027-12-29",
+   "weekly": false,
+   "title": "학교회계 세출예산 집행률 점검",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-12-30-r2-310",
+   "date": "2027-12-30",
+   "weekly": false,
+   "title": "학교발전기금 접수내역 학교운영위원회 보고 및 공개(3분기)",
+   "detail": "",
+   "category": "세입",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-12-30-02",
+   "date": "2027-12-30",
+   "weekly": false,
+   "title": "공무직 근속연수 재산정(1월)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-12-30-r2-311",
+   "date": "2027-12-30",
+   "weekly": false,
+   "title": "1.1.자 지방공무원 정기 호봉 승급",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-12-31-01",
+   "date": "2027-12-31",
+   "weekly": false,
+   "title": "일용근로소득 지급명세서 제출",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-12-31-02",
+   "date": "2027-12-31",
+   "weekly": false,
+   "title": "말일 급여 지급",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-12-31-03",
+   "date": "2027-12-31",
+   "weekly": false,
+   "title": "근로·사업·기타소득 간이지급명세서 제출",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2027-12-31-r2-312",
+   "date": "2027-12-31",
+   "weekly": false,
+   "title": "방과후학교 강사 (전)월보수액 신고",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-01-03-01",
+   "date": "2028-01-03",
+   "weekly": false,
+   "title": "인계인수서 작성(실장)",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-01-03-r2-313",
+   "date": "2028-01-03",
+   "weekly": false,
+   "title": "출납원 인감변경 신고",
+   "detail": "",
+   "category": "세입",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-01-03-02",
+   "date": "2028-01-03",
+   "weekly": false,
+   "title": "행정실 업무분장 결재",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-01-03-r2-314",
+   "date": "2028-01-03",
+   "weekly": false,
+   "title": "시설 관리 각종 용역 검토(1개월 전 기한 만료 통보)",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-01-03-04",
+   "date": "2028-01-03",
+   "weekly": false,
+   "title": "여비 지급",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-01-03-r2-315",
+   "date": "2028-01-03",
+   "weekly": false,
+   "title": "직책급업무수행경비 지급",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-01-03-r2-316",
+   "date": "2028-01-03",
+   "weekly": false,
+   "title": "공무직 현원 변동 보고",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-01-03-r2-317",
+   "date": "2028-01-03",
+   "weekly": false,
+   "title": "관리자 선임신고 및 담당자 교육 확인(소방,가스,석면,승강기,놀이시설,기계설비)",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-01-03-r2-318",
+   "date": "2028-01-03",
+   "weekly": false,
+   "title": "어린이놀이시설 보험 행안부시스템에 등록(한국교육시설안전원 배상책임공제 가입증서 확인)",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-01-04-01",
+   "date": "2028-01-04",
+   "weekly": false,
+   "title": "안전점검의 날",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-01-04-r2-319",
+   "date": "2028-01-04",
+   "weekly": false,
+   "title": "학교운영위원회 연간 운영계획안 수립",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-01-04-r2-320",
+   "date": "2028-01-04",
+   "weekly": false,
+   "title": "1.1. 전입자·전출자 처리(근무일수 통보, 맞춤형복지, 4대 보험)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-01-05-r2-321",
+   "date": "2028-01-05",
+   "weekly": false,
+   "title": "겨울방학 중 시설 보수",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-01-05-02",
+   "date": "2028-01-05",
+   "weekly": false,
+   "title": "공유재산 증감 및 현재액 보고서 제출",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-01-05-03",
+   "date": "2028-01-05",
+   "weekly": false,
+   "title": "전월분 출납검사서",
+   "detail": "",
+   "category": "세입",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-01-06-r2-322",
+   "date": "2028-01-06",
+   "weekly": false,
+   "title": "2028년 상반기(3.1.)교육공무직원 정기전보 근무희망조서 제출(공문 시행 시)",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-01-06-r2-323",
+   "date": "2028-01-06",
+   "weekly": false,
+   "title": "2027년도 물품 증감 및 현재액 보고서, 2028년도 물품 수급관리계획서 제출(공문 시행 시)",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-01-06-r2-324",
+   "date": "2028-01-06",
+   "weekly": false,
+   "title": "하반기 지방공무원 초과근무 및 유연근무 운영실태 자체점검결과 제출(공문 시행 시)",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-01-07-r2-325",
+   "date": "2028-01-07",
+   "weekly": false,
+   "title": "보험 등 세외 계좌 입금 확인",
+   "detail": "",
+   "category": "세입",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-01-07-r2-326",
+   "date": "2028-01-07",
+   "weekly": false,
+   "title": "연말정산 국세청 간소화서비스 오픈 전 급여담당자 나이스 확인(대상자, 비과세,기타소득,기타공제,기관공제 기부금 등)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-01-07-r2-327",
+   "date": "2028-01-07",
+   "weekly": false,
+   "title": "2027년 하반기 지방공무원 휴직자 복무상황 신고서 및 근무실태 점검결과 제출(공문 시행 시)",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-01-08-r2-328",
+   "date": "2028-01-08",
+   "weekly": false,
+   "title": "연간기본운영비 전입금 통보",
+   "detail": "",
+   "category": "세입",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-01-10-01",
+   "date": "2028-01-10",
+   "weekly": false,
+   "title": "나이스 급여 마감",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-01-10-r2-329",
+   "date": "2028-01-10",
+   "weekly": false,
+   "title": "원천세 신고 및 납부(10일)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-01-10-r2-330",
+   "date": "2028-01-10",
+   "weekly": false,
+   "title": "4대 보험 신고 및 납부(10일, 자동이체)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-01-10-r2-331",
+   "date": "2028-01-10",
+   "weekly": false,
+   "title": "방과후학교 위탁학교 입찰 준비",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-01-11-r2-332",
+   "date": "2028-01-11",
+   "weekly": false,
+   "title": "하반기 업무추진비 사용내역 점검 실시 자료 제출",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-01-11-02",
+   "date": "2028-01-11",
+   "weekly": false,
+   "title": "신용카드 결제일",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-01-12-r2-333",
+   "date": "2028-01-12",
+   "weekly": false,
+   "title": "급식 입찰공고",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-01-13-r2-334",
+   "date": "2028-01-13",
+   "weekly": false,
+   "title": "2028학년도 예산 최종 검토(권장)",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-01-13-r2-335",
+   "date": "2028-01-13",
+   "weekly": false,
+   "title": "2028학년도 예산 확정 공문 시행 후 예산(안) 작성",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-01-13-r2-336",
+   "date": "2028-01-13",
+   "weekly": false,
+   "title": "2027년 장애인근로자 현황 및 2028년도 고용계획 제출",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-01-14-01",
+   "date": "2028-01-14",
+   "weekly": false,
+   "title": "학교회계 세출예산 집행률 점검",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-01-14-03",
+   "date": "2028-01-14",
+   "weekly": false,
+   "title": "대체인건비 등 신청",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-01-14-r2-337",
+   "date": "2028-01-14",
+   "weekly": false,
+   "title": "4대 보험 취득·상실·변동 신고",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-01-17-r2-338",
+   "date": "2028-01-17",
+   "weekly": false,
+   "title": "일용근로자 근로내용 확인신고(15일)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-01-17-r2-339",
+   "date": "2028-01-17",
+   "weekly": false,
+   "title": "17일 급여 지급(학교회계 지급대상자 지출)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-01-18-r2-340",
+   "date": "2028-01-18",
+   "weekly": false,
+   "title": "전년도 지방자치단체 교육투자 현황 자료 제출(공문 시행 시)",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-01-18-r2-341",
+   "date": "2028-01-18",
+   "weekly": false,
+   "title": "장애인·노인·임산부 등 편의시설 설치 지원 수요조사(공문 시행 시)",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-01-19-r2-342",
+   "date": "2028-01-19",
+   "weekly": false,
+   "title": "교직원 연말정산 공제자료 등록 권한 부여(교육청->학교)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-01-20-r2-343",
+   "date": "2028-01-20",
+   "weekly": false,
+   "title": "4대 보험 납부 고지 확인",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-01-20-r2-344",
+   "date": "2028-01-20",
+   "weekly": false,
+   "title": "클린재정 점검표 작성·결재(월 1회, 20일 기준)",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-01-21-r2-345",
+   "date": "2028-01-21",
+   "weekly": false,
+   "title": "통합급여 공무직 4대 보험 기관부담금 신청",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-01-21-r2-346",
+   "date": "2028-01-21",
+   "weekly": false,
+   "title": "4분기 초과근무 교육",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-01-21-03",
+   "date": "2028-01-21",
+   "weekly": false,
+   "title": "매입처별 세금계산서 합계표 홈택스 제출(7월~12월)",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-01-24-01",
+   "date": "2028-01-24",
+   "weekly": false,
+   "title": "전년도 중소기업제품 구매실적 제출(공공구매종합정보망)",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-01-24-r2-347",
+   "date": "2028-01-24",
+   "weekly": false,
+   "title": "1월 중대산업재해[안전보건 도급 협의체]",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-01-25-r2-348",
+   "date": "2028-01-25",
+   "weekly": false,
+   "title": "4대 보험 기관부담금 세외 계좌 지출",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-01-25-r2-349",
+   "date": "2028-01-25",
+   "weekly": false,
+   "title": "교직원 연말정산 본인 확인·마감 점검",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-01-25-03",
+   "date": "2028-01-25",
+   "weekly": false,
+   "title": "교직원 연말정산 공제자료 등록 권한 회수",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-01-31-r2-350",
+   "date": "2028-01-31",
+   "weekly": false,
+   "title": "방과후학교 강사 (전)월보수액 통보",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-01-31-02",
+   "date": "2028-01-31",
+   "weekly": false,
+   "title": "연말정산 나이스 최종 마감",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-01-31-r2-351",
+   "date": "2028-01-31",
+   "weekly": false,
+   "title": "2.1.자 지방공무원 정기 호봉 승급",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-01-31-r2-352",
+   "date": "2028-01-31",
+   "weekly": false,
+   "title": "전년도 하반기(7월~12월) 간이지급명세(근로소득) 제출",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-01-31-04",
+   "date": "2028-01-31",
+   "weekly": false,
+   "title": "신용카드 결제일",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-01-31-05",
+   "date": "2028-01-31",
+   "weekly": false,
+   "title": "학교회계 세출예산 집행률 점검",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-01-31-r2-353",
+   "date": "2028-01-31",
+   "weekly": false,
+   "title": "학교회계 예산안 제출(학교운영운영위) 회계연도 개시 30일 전",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-02-01-01",
+   "date": "2028-02-01",
+   "weekly": false,
+   "title": "학교회계 추경예산편성(집행잔액 및 이월금 파악)",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-02-01-02",
+   "date": "2028-02-01",
+   "weekly": false,
+   "title": "교실 및 특별실 재배치",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-02-01-r2-354",
+   "date": "2028-02-01",
+   "weekly": false,
+   "title": "새 학기 대비 화재예방 안전점검",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-02-01-r2-355",
+   "date": "2028-02-01",
+   "weekly": false,
+   "title": "직책급업무수행경비 지급",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-02-02-r2-356",
+   "date": "2028-02-02",
+   "weekly": false,
+   "title": "공유재산 사용·수익허가(6개월 이상 학교운영위원회 심의)",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-02-02-r2-357",
+   "date": "2028-02-02",
+   "weekly": false,
+   "title": "공무직 현원 변동 보고",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-02-03-01",
+   "date": "2028-02-03",
+   "weekly": false,
+   "title": "근로소득/의료비 지급명세서 홈택스 제출",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-02-03-02",
+   "date": "2028-02-03",
+   "weekly": false,
+   "title": "연간 용역계약 체결",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-02-03-03",
+   "date": "2028-02-03",
+   "weekly": false,
+   "title": "여비 지급",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-02-04-01",
+   "date": "2028-02-04",
+   "weekly": false,
+   "title": "안전점검의 날",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-02-04-r2-358",
+   "date": "2028-02-04",
+   "weekly": false,
+   "title": "연말정산 근로소득 지급명세서(급여 마감 전) 홈택스 제출 :급여 마감 후 신고파일 수정 불가",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-02-04-r2-359",
+   "date": "2028-02-04",
+   "weekly": false,
+   "title": "연말정산 분할정산세금파악, 나이스 입력(전출예정 교원 및 교육공무직원 분할 환급 및 분할 징수 불가)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-02-04-03",
+   "date": "2028-02-04",
+   "weekly": false,
+   "title": "학교운영위원회 규정 정비",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-02-07-r2-360",
+   "date": "2028-02-07",
+   "weekly": false,
+   "title": "전월분 출납검사서(매월 5일 이내)",
+   "detail": "",
+   "category": "세입",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-02-07-r2-361",
+   "date": "2028-02-07",
+   "weekly": false,
+   "title": "새 학기 대비 시설점검",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-02-08-01",
+   "date": "2028-02-08",
+   "weekly": false,
+   "title": "정기예금 해지 확인(회계말)",
+   "detail": "",
+   "category": "세입",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-02-08-r2-362",
+   "date": "2028-02-08",
+   "weekly": false,
+   "title": "보험 등 세외 계좌 입금 확인",
+   "detail": "",
+   "category": "세입",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-02-09-r2-363",
+   "date": "2028-02-09",
+   "weekly": false,
+   "title": "학교운영위원회 개최(2.23.까지): 본예산,추경,명시이월금,발전기금 운용계획 수립 포함",
+   "detail": "",
+   "category": "세입",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-02-09-r2-364",
+   "date": "2028-02-09",
+   "weekly": false,
+   "title": "학교발전기금 운용계획 수립(예결산소위원회 포함) 학교운영위원회 안건 심의",
+   "detail": "(학교운영위원회 심의·의결 후 1개월 이내 공개)",
+   "category": "세입",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-02-10-02",
+   "date": "2028-02-10",
+   "weekly": false,
+   "title": "나이스 급여 마감(연말정산 반영)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-02-10-r2-365",
+   "date": "2028-02-10",
+   "weekly": false,
+   "title": "1월 원천세 신고 및 납부(10일)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-02-10-r2-366",
+   "date": "2028-02-10",
+   "weekly": false,
+   "title": "1월 4대 보험 신고 및 납부(10일,자동이체)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-02-11-r2-367",
+   "date": "2028-02-11",
+   "weekly": false,
+   "title": "급식 입찰공고",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-02-11-r2-368",
+   "date": "2028-02-11",
+   "weekly": false,
+   "title": "전년도 부서별 생산 기록물 정리완료(재분류∙분류∙편철)(권장)",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-02-11-r2-369",
+   "date": "2028-02-11",
+   "weekly": false,
+   "title": "새 학기 대비 시설점검",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-02-14-r2-370",
+   "date": "2028-02-14",
+   "weekly": false,
+   "title": "4대 보험 취득·상실·변동 신고",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-02-14-02",
+   "date": "2028-02-14",
+   "weekly": false,
+   "title": "녹색제품 구매이행계획 제출",
+   "detail": "(https://ecosq.or.kr 직접 입력)(공문 시행 시)",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-02-14-03",
+   "date": "2028-02-14",
+   "weekly": false,
+   "title": "신용카드 결제일",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-02-15-01",
+   "date": "2028-02-15",
+   "weekly": false,
+   "title": "대체인건비 등 신청",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-02-15-r2-371",
+   "date": "2028-02-15",
+   "weekly": false,
+   "title": "일용근로자 근로내용 확인신고(15일)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-02-16-01",
+   "date": "2028-02-16",
+   "weekly": false,
+   "title": "전체 품의 마감(예산잔액 확인 후 불용액 최소화를 위한 정리추경 대비)(권장)",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-02-17-r2-372",
+   "date": "2028-02-17",
+   "weekly": false,
+   "title": "17일 급여 지급(학교회계 지급대상자 지출)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-02-17-02",
+   "date": "2028-02-17",
+   "weekly": false,
+   "title": "해빙기 교육시설 안전점검 결과 제출(교육시설통합정보시스템 입력)",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-02-18-r2-373",
+   "date": "2028-02-18",
+   "weekly": false,
+   "title": "새 학기 재배치 교실 교육시설통합정보시스템 수정 반영",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-02-18-r2-374",
+   "date": "2028-02-18",
+   "weekly": false,
+   "title": "인증신제품(NEP) 구매실적 및 구매계획 제출",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-02-21-r2-375",
+   "date": "2028-02-21",
+   "weekly": false,
+   "title": "교육공무직원 및 특수직군 근무성적평가 계획 수립(말일까지)",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-02-21-r2-376",
+   "date": "2028-02-21",
+   "weekly": false,
+   "title": "클린재정 점검표 작성·결재 월 1회(20일 기준)",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-02-21-r2-377",
+   "date": "2028-02-21",
+   "weekly": false,
+   "title": "4대 보험 납부 고지 확인",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-02-22-r2-378",
+   "date": "2028-02-22",
+   "weekly": false,
+   "title": "물품 등록 및 정리(권장)",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-02-22-02",
+   "date": "2028-02-22",
+   "weekly": false,
+   "title": "학교운영위원회 구성 계획 수립",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-02-22-03",
+   "date": "2028-02-22",
+   "weekly": false,
+   "title": "물품재물조사 실시",
+   "detail": "",
+   "category": "시설",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-02-23-r2-379",
+   "date": "2028-02-23",
+   "weekly": false,
+   "title": "3.1. 발령 전 4대 보험 보수총액신고서 제출[건강보험(3.10.까지),고용산재(3.15.까지)]",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-02-23-r2-380",
+   "date": "2028-02-23",
+   "weekly": false,
+   "title": "2028년도 예산 심의·확정·공개(권장)",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-02-23-r2-381",
+   "date": "2028-02-23",
+   "weekly": false,
+   "title": "개시 5일 전 심의(학교운영위원회 심의 완료)",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-02-24-r2-382",
+   "date": "2028-02-24",
+   "weekly": false,
+   "title": "통합급여 공무직 4대 보험 기관부담금 신청",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-02-24-r2-383",
+   "date": "2028-02-24",
+   "weekly": false,
+   "title": "목적사업비 반환(예산잔액 확인)",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-02-24-02",
+   "date": "2028-02-24",
+   "weekly": false,
+   "title": "2027학년도 예산 집행 내역 점검(마감 준비)",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-02-25-01",
+   "date": "2028-02-25",
+   "weekly": false,
+   "title": "재정보증보험 갱신",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-02-25-r2-384",
+   "date": "2028-02-25",
+   "weekly": false,
+   "title": "학교발전기금,세외 출납 마감",
+   "detail": "",
+   "category": "세입",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-02-25-03",
+   "date": "2028-02-25",
+   "weekly": false,
+   "title": "학교회계 세출예산 집행률 점검",
+   "detail": "",
+   "category": "지출",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-02-25-r2-385",
+   "date": "2028-02-25",
+   "weekly": false,
+   "title": "전보 교육공무직원 서류 이관",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-02-26-r2-386",
+   "date": "2028-02-26",
+   "weekly": false,
+   "title": "지급명세서 제출 기한 안내: 근로소득(연말,중도) 3.10.까지 / 사업소득 3.10.까지 / 퇴직소득 3.10.까지 / 기타소득 2월 말일까지",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-02-28-r2-387",
+   "date": "2028-02-28",
+   "weekly": false,
+   "title": "4대 보험 기관부담금 세외 계좌 지출",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-02-28-02",
+   "date": "2028-02-28",
+   "weekly": false,
+   "title": "공무직 근속연수 재산정(3월)",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-02-28-r2-388",
+   "date": "2028-02-28",
+   "weekly": false,
+   "title": "2월 중대산업재해[안전보건 도급 협의체",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-02-28-r2-389",
+   "date": "2028-02-28",
+   "weekly": false,
+   "title": "현업업무종사자 반기별 정기교육 이수(12시간, 9월~2월까지)",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-02-29-r2-390",
+   "date": "2028-02-29",
+   "weekly": false,
+   "title": "2027학년도 예산 마감",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-02-29-02",
+   "date": "2028-02-29",
+   "weekly": false,
+   "title": "최종추경 이후 목적사업비 교부시 간주추경 처리",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-02-29-03",
+   "date": "2028-02-29",
+   "weekly": false,
+   "title": "말일 급여 지급",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-02-29-04",
+   "date": "2028-02-29",
+   "weekly": false,
+   "title": "근로·사업·기타소득 간이지급명세서 제출",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-02-29-05",
+   "date": "2028-02-29",
+   "weekly": false,
+   "title": "일용근로소득 지급명세서 제출",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-02-29-r2-391",
+   "date": "2028-02-29",
+   "weekly": false,
+   "title": "방과후학교 강사 (전)월보수액 신고",
+   "detail": "",
+   "category": "급여",
+   "source": "default"
+  },
+  {
+   "id": "d-2028-02-29-r2-392",
+   "date": "2028-02-29",
+   "weekly": false,
+   "title": "학교보안관 운영지원금 명시이월확정",
+   "detail": "",
+   "category": "관리자",
+   "source": "default"
+  }
+ ],
+ "notices": [],
+ "changelog": [
+  {
+   "version": "2027-2028.2",
+   "date": "2026-11-21",
+   "summary": "새 업무달력 엑셀로 원본 일정을 바꿨습니다. 업무 601건 → 657건(새로 생기거나 문구가 바뀐 업무 392건, 빠지거나 문구가 바뀐 업무 336건). 공휴일 이름 정리(대체공휴일), 식목일 제외."
+  },
+  {
+   "version": "2027-2028.3",
+   "date": "2026-11-21",
+   "summary": "현업업무종사자 정기교육 문구를 \"반기별\"로 통일(2027.2.25., 2027.8.30., 2028.2.28.)"
+  }
+ ]
+}
