@@ -28,6 +28,24 @@ header::before{content:"";position:absolute;left:0;right:0;top:0;height:4px;back
 .yr b:nth-child(1){color:var(--navy)}.yr b:nth-child(2){color:var(--red2)}.yr b:nth-child(3){color:var(--yellow)}.yr b:nth-child(4){color:var(--blue2)}
 .bt{display:flex;flex-direction:column;line-height:1.15}.bt strong{font-size:18px;font-weight:900;letter-spacing:-.4px}.bt span{font-size:12px;color:var(--sub)}
 .brand svg{flex:none}
+.logo-link{display:block;flex:none;line-height:0;border-radius:6px}
+.logo-link:focus-visible{outline:2px solid var(--navy2);outline-offset:3px}
+.brand .logo{display:block;flex:none;height:56px;width:auto;max-width:none;object-fit:contain}
+.brand .yr{padding-left:12px;border-left:1px solid var(--line)}
+@media (max-width:1500px){header .search input{width:150px}}
+@media (max-width:1320px){header{gap:10px}header .search input{width:120px}header .hbtn{padding:5px 9px}}
+@media (max-width:760px){
+  header{gap:8px;padding:10px 12px}
+  .brand{display:contents}
+  .logo-link{order:1}
+  .brand .logo{height:clamp(28px,9vw,40px)}
+  .bt{order:2}.bt strong{font-size:15px}.bt span{font-size:11px}
+  .brand .yr{order:3;font-size:20px;padding-left:0;border-left:0}
+  header .nav{order:4;margin-left:0}
+  header .hbtn{order:5}
+  header .search{order:6;margin-left:0;width:100%}header .search input{width:100%}
+}
+@media (max-width:380px){.bt strong{font-size:14px}}
 .nav{display:flex;align-items:center;gap:6px;margin-left:8px}
 .nav button{background:var(--navy);border:0;color:#fff;border-radius:999px;padding:6px 12px}
 .nav button:hover{background:var(--navy2)}
@@ -137,6 +155,7 @@ aside .cnt{font-size:12px;color:var(--sub);font-weight:500}
   body{display:block;background:#fff;font-size:9pt}
   .nav button,.search,.hbtn,.chips,aside,.install,.toast,.nbar,.add,.scrim{display:none!important}
   header{padding:4px 0}.subbar{padding:2px 0;background:#fff}
+  .brand .logo{height:34px}
   .nav select{border:0;appearance:none;-webkit-appearance:none;font-size:13pt;background:none}
   main{display:block}.cal{display:block;padding:0}
   .grid{grid-template-rows:none!important;grid-auto-rows:auto!important;overflow:visible;border-radius:0;background:#fff;gap:0;border:0}
@@ -165,13 +184,46 @@ aside .cnt{font-size:12px;color:var(--sub);font-weight:500}
 .install h4{margin:0 0 6px;font-size:15px;color:var(--navy)}
 .install ol{margin:6px 0 10px;padding-left:18px;line-height:1.6}
 @media (max-width:1100px){aside{display:none}}
+.dots{display:none}
+/* ---------- 휴대폰 화면 ---------- */
+@media (max-width:760px){
+  html,body{height:auto}
+  body{display:block;font-size:14px}
+  .subbar{padding:8px 12px;gap:8px}
+  .notice{max-width:100%;font-size:13px}
+  .chips{margin-left:0;gap:5px}.chip{font-size:12.5px;padding:3px 9px 3px 7px}
+  .nbar{padding:0 12px 6px}
+  main{display:block}
+  .cal{--cols:30px repeat(7,minmax(0,1fr));padding:6px 8px 10px}
+  .dow{font-size:12px}.dow div{padding:0 3px;text-align:center}
+  .dow .wkh{font-size:0}.dow .wkh::after{content:"주";font-size:12px}
+  .grid{flex:none;grid-template-rows:none!important;grid-auto-rows:minmax(58px,auto);border-radius:6px}
+  .cell{padding:4px 3px;cursor:pointer;align-items:center}
+  .cell .items,.cell .add,.cell .wkd{display:none}
+  .chead{flex-direction:column;gap:0;margin:0;align-items:center}
+  .dnum{font-size:13px}
+  .hname{font-size:9px;max-width:100%;text-align:center}
+  .cell.wkc{padding:4px 1px;border-right-width:1.5px}
+  .wkl{font-size:11px}
+  .dots{display:flex;flex-wrap:wrap;justify-content:center;gap:2px;margin-top:4px;max-width:100%}
+  .dots i{width:6px;height:6px;border-radius:50%;display:block}
+  .dots i.dn{opacity:.3}
+  .dots b{flex-basis:100%;text-align:center;font-size:10px;color:var(--sub);font-weight:700;line-height:1.3}
+  .cell:active{background:#efe9df}
+  aside{display:block!important;width:auto;border-left:0;border-top:1px solid var(--line);margin:4px 8px 16px;border-radius:10px;border:1px solid var(--line)}
+  .list{flex:none}
+  .dlg .row{flex-wrap:wrap}
+  .install{left:12px;right:12px;bottom:12px;width:auto}
+  .toast{width:max-content;max-width:calc(100% - 24px)}
+}
 </style>
 </head>
 <body>
 <header>
   <div class="brand">
+    <a class="logo-link" href="https://seu.or.kr/" target="_blank" rel="noopener" title="서울특별시교육청노동조합 누리집으로 이동"><img class="logo" src="icons/union-logo.png" alt="서울특별시교육청노동조합" width="553" height="127"></a>
+    <span class="bt"><strong>한눈에 쏙 서울교육행정달력</strong></span>
     <span class="yr" aria-hidden="true"><b>2</b><b>0</b><b>2</b><b>7</b></span>
-    <span class="bt"><strong>한눈에 쏙 서울교육행정달력</strong><span>학교행정 업무달력</span></span>
   </div>
   <div class="nav">
     <button id="prev" title="이전 달 (←)">◀</button>
@@ -258,10 +310,11 @@ aside .cnt{font-size:12px;color:var(--sub);font-weight:500}
 <div class="toast" id="toast"><span id="toastMsg"></span><button id="toastUndo">실행 취소</button></div>
 
 <div class="install" id="install">
-  <h4>바탕화면에 설치해서 쓰세요</h4>
+  <h4>바탕화면·홈 화면에 설치해서 쓰세요</h4>
   <ol>
     <li><b>Edge</b>: 주소창 오른쪽 <b>앱 설치</b> 아이콘 → 설치</li>
     <li><b>Chrome</b>: 오른쪽 위 ⋮ → <b>저장 및 공유</b> → <b>페이지를 앱으로 설치</b></li>
+    <li><b>휴대폰</b>: 브라우저 메뉴 → <b>홈 화면에 추가</b> (아이폰은 Safari 아래 공유 버튼 → 홈 화면에 추가)</li>
   </ol>
   <div style="color:var(--sub);font-size:12.5px;margin-bottom:8px">설치하면 바탕화면 아이콘으로 바로 열리고, 인터넷이 끊겨도 쓸 수 있습니다.</div>
   <button class="btn pri" id="instGo" hidden>지금 설치</button> <button class="btn" id="instClose">닫기</button>
@@ -366,11 +419,18 @@ function itemEl(t){
   return d;
 }
 let printing = false;
+const MOBILE = () => window.matchMedia('(max-width:760px)').matches;
 function addItems(cell, box, list, ds){
   list.forEach(t => box.appendChild(itemEl(t)));
+  if (list.length){ // 휴대폰용 요약 점(분야 색)과 건수
+    const dots = document.createElement('div'); dots.className = 'dots';
+    list.slice(0, 6).forEach(t => { const d = document.createElement('i'); d.style.background = `var(--c${t.category})`; if (store.done[t.id]) d.className = 'dn'; dots.appendChild(d); });
+    const c = document.createElement('b'); c.textContent = list.length; dots.appendChild(c);
+    cell.appendChild(dots);
+  }
   cell.ondragover = e => { e.preventDefault(); cell.classList.add('drop'); };
   cell.ondragleave = () => cell.classList.remove('drop');
-  if (list.length && !printing) requestAnimationFrame(() => fitCell(cell, box, ds, list.length, cell.classList.contains('wkc')));
+  if (list.length && !printing && !MOBILE()) requestAnimationFrame(() => fitCell(cell, box, ds, list.length, cell.classList.contains('wkc')));
 }
 function render(){
   msel.value = cur; renderChips(); renderMeta();
@@ -398,7 +458,8 @@ function render(){
     wadd.onclick = e => { e.stopPropagation(); openEdit(null, ws, true); };
     wh.appendChild(wadd); wc.appendChild(wh);
     const wbox = document.createElement('div'); wbox.className='items'; wc.appendChild(wbox);
-    wc.ondblclick = () => openEdit(null, ws, true);
+    wc.ondblclick = () => { if (!MOBILE()) openEdit(null, ws, true); };
+    wc.onclick = () => { if (MOBILE()) openDay(ws, true); };
     wc.ondrop = e => { e.preventDefault(); wc.classList.remove('drop'); const id = e.dataTransfer.getData('text/plain'); if (id) moveTask(id, ws, true); };
     grid.appendChild(wc);
     addItems(wc, wbox, (byWeek[ws]||[]).slice().sort(doneLast), ws);
@@ -414,7 +475,8 @@ function render(){
       add.onclick = e => { e.stopPropagation(); openEdit(null, ds); };
       head.appendChild(add); cell.appendChild(head);
       const box = document.createElement('div'); box.className = 'items'; cell.appendChild(box);
-      cell.ondblclick = () => openEdit(null, ds);
+      cell.ondblclick = () => { if (!MOBILE()) openEdit(null, ds); };
+      cell.onclick = () => { if (MOBILE()) openDay(ds); };
       cell.ondrop = e => { e.preventDefault(); cell.classList.remove('drop'); const id = e.dataTransfer.getData('text/plain'); if (id) moveTask(id, ds, false); };
       grid.appendChild(cell);
       addItems(cell, box, (byDate[ds]||[]).slice().sort(doneLast), ds);
@@ -570,6 +632,7 @@ function openDay(ds, wk){
     li.innerHTML = `<span></span><small></small>`; li.firstChild.textContent = (store.done[t.id]?'✔ ':'') + t.title; li.lastChild.textContent = t.category + (t.detail? ' · '+t.detail:'');
     li.onclick = () => openEdit(t.id); ul.appendChild(li);
   });
+  if (!ul.children.length) ul.innerHTML = '<div class="empty">등록된 업무가 없습니다.</div>';
   f('lsAdd').onclick = () => openEdit(null, ds, wk);
   f('listScrim').classList.add('on');
 }
